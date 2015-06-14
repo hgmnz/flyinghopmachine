@@ -72,6 +72,8 @@ github_skip_forks: true
 # Twitter
 twitter_user: flyinghopmachine
 twitter_tweet_button: true
+twitter_tweet_count: 3
+twitter_show_replies: false
 
 # Google +1
 google_plus_one: false
