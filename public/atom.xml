@@ -4,7 +4,7 @@
   <title><![CDATA[Flying Hop Machine]]></title>
   <link href="http://flyinghopmachine.com/atom.xml" rel="self"/>
   <link href="http://flyinghopmachine.com/"/>
-  <updated>2015-06-16T21:19:01-07:00</updated>
+  <updated>2015-06-16T21:28:16-07:00</updated>
   <id>http://flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -21,8 +21,8 @@
     <content type="html"><![CDATA[<p>After a couple of years brewing I came across one of the biggest difficulties
 in my brewing to date. A bold, in your face, undeniable off-flavor had plagued
 my (home) brewhouse. The flavor was medicinal, plastic-like, pool-like and very
-very overruling. I lost three 5 gallon batches of homebrew, and this is the
-story of my quest to find out what was the cause.</p>
+completely overruling. I lost three 5 gallon batches of homebrew, and this is
+the story of my quest to find out what was the cause.</p>
 
 <!--more-->
 
@@ -61,10 +61,7 @@ regardless.</p>
 
 <h2>The quest begins</h2>
 
-<p>First off, for the Rye IPA batch, I sampled it at various points during the
-brewing process and fermentation to try and determine where it was coming from.</p>
-
-<p>Then I took the Saison and the Smoked Porter to my awesome LHBS. After tasting
+<p>First I took the Saison and the Smoked Porter to my awesome LHBS. After tasting
 it there I was convinced this was not an easy thing to fix. The advice I got
 was to deep clean everything, and to replace racking canes or hoses that might
 be suspect.</p>
@@ -86,38 +83,39 @@ acidic. So indeed, the plot thickens.</p>
 
 <p>At this point I brewed a 2 gallon batch with the purpose of isolating the
 problem by chilling half of it with my plate chiller, and the othe half in an
-ice batch. I made a simple Pale Ale with extract, used some hops I had lying
+ice bath. I made a simple Pale Ale with extract, used some hops I had lying
 around and pitched some dry yeast. The entire purpose was not to make great
 beer, but rather to see if the chiller, hoses or inline thermometer had
-anything to do with it.</p>
+anything to do with it. It produced drinkable beer nevertheless.</p>
 
 <p><img class="left" src="http://i.imgur.com/4wo9ZYX.jpg"></p>
 
 <p>Next up, I kegged my Rye IPA, and I was surprised and relieved that it didn&rsquo;t
-also have the off-flavor. This was one of those beers that went fast because it
+have the off-flavor too. This was one of those beers that went fast because it
 was so darn delicious!</p>
 
 <p>Confident in the fact that there was nothing wrong with my equipment at this
 point, I went on to brew my Rye Smoked Porter again. At this point, I had
 deep-cleaned all of my equipment, replaced suspect parts, and knew that it was
-clean of any bacteria. After all, the previous brew went just fine.</p>
+clean of any bacteria. After all, the previous Rye IPA brew went just fine, and
+so did the experiment extract batch.</p>
 
 <p>This time around, I tried my wort/beer every step of the way, too. No signs of
 this flavor on brewday, so pitched my starter yeast, and off to primary
 fermentation it goes.</p>
 
 <p>I sampled the fermenting beer 3 days in and it was clean. Five days in, same
-thing. I&rsquo;m safe, I thought. Let it ferment all the way, for about 14 days, and
-to my surprise the flavor was back when I kegged.</p>
+thing. I&rsquo;m safe, I thought. I let it ferment all the way, for about 14 days,
+and to my surprise the flavor was back when I kegged.</p>
 
 <p>I still carbonated it. Before I poured this batch down the drain, I saved a few
 bottles to get more help identifying what&rsquo;s up. I gave a bottle to a local
 friendly brewery, <a href="http://www.cleoph.us/">Cleophus Quealy</a>, who also asked me
 for the recipe and brewing notes.</p>
 
-<p>Brewing notes included the usual brewday notes, but most notably that I used my
-local tap water, but removed chlorine with campden tablets and boiling
-treatment, something that I&rsquo;ve done successfuly in brews past.</p>
+<p>Brewing notes included the usual brewday notes, but most notably noted I used
+my local tap water, but removed chlorine with campden tablets, something that
+I&rsquo;ve done successfuly in brews past.</p>
 
 <p>Here&rsquo;s what <a href="https://twitter.com/finack">Peter</a> from Cleophus Quealy had to
 say:</p>
@@ -130,17 +128,18 @@ say:</p>
 <p>Yeah, <a href="https://en.wikipedia.org/wiki/Chlorophenol">chlorophenols</a>. These nasty
 compounds are formed when phenols bond with chlorine. Phenol production is
 evident in some malts and yeasts, notably smoked malts and some yeasts such as
-the <a href="https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199among">WY3711</a>
-used here among many others, but not really on
+the delicious
+<a href="https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199among">WY3711</a> used
+here among many others, but not really on
 <a href="http://www.whitelabs.com/yeast/wlp001-california-ale-yeast">WLP001</a> used for
 the Rye IPA.</p>
 
 <p>Alright, so this makes sense, but does this mean that campden tablets don&rsquo;t
 work? No, it doesn&rsquo;t, and here&rsquo;s the last piece of the puzzle: I started
 getting these off-flavors when I changed something about my brewing process,
-and the key in the yeast starter. I was just using tap water with no filtration
-or treatment to build my starters. Even though we&rsquo;re just talking less than a
-couple of liters of water, this seams to fit the bill.</p>
+and the key lies within the yeast starter. I was just using tap water with no
+filtration or treatment to brew my starters. Even though we&rsquo;re just talking
+less than a couple of liters of water, this seams to fit the bill.</p>
 
 <p><img class="left" src="http://i.imgur.com/ZPqiswr.jpg"></p>
 
