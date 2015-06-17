@@ -3,14 +3,14 @@ layout: post
 title: "What in The World is That Off-flavor?"
 date: 2015-06-14
 comments: true
-categories: science brewing water
+categories: [science, brewing, water]
 ---
 
 After a couple of years brewing I came across one of the biggest difficulties
 in my brewing to date. A bold, in your face, undeniable off-flavor had plagued
 my (home) brewhouse. The flavor was medicinal, plastic-like, pool-like and very
-very overruling. I lost three 5 gallon batches of homebrew, and this is the
-story of my quest to find out what was the cause.
+completely overruling. I lost three 5 gallon batches of homebrew, and this is
+the story of my quest to find out what was the cause.
 
 <!--more-->
 
@@ -45,10 +45,7 @@ regardless.
 
 ## The quest begins
 
-First off, for the Rye IPA batch, I sampled it at various points during the
-brewing process and fermentation to try and determine where it was coming from.
-
-Then I took the Saison and the Smoked Porter to my awesome LHBS. After tasting
+First I took the Saison and the Smoked Porter to my awesome LHBS. After tasting
 it there I was convinced this was not an easy thing to fix. The advice I got
 was to deep clean everything, and to replace racking canes or hoses that might
 be suspect.
@@ -70,38 +67,39 @@ acidic. So indeed, the plot thickens.
 
 At this point I brewed a 2 gallon batch with the purpose of isolating the
 problem by chilling half of it with my plate chiller, and the othe half in an
-ice batch. I made a simple Pale Ale with extract, used some hops I had lying
+ice bath. I made a simple Pale Ale with extract, used some hops I had lying
 around and pitched some dry yeast. The entire purpose was not to make great
 beer, but rather to see if the chiller, hoses or inline thermometer had
-anything to do with it.
+anything to do with it. It produced drinkable beer nevertheless.
 
 {% img left http://i.imgur.com/4wo9ZYX.jpg %}
 
 Next up, I kegged my Rye IPA, and I was surprised and relieved that it didn't
-also have the off-flavor. This was one of those beers that went fast because it
+have the off-flavor too. This was one of those beers that went fast because it
 was so darn delicious!
 
 Confident in the fact that there was nothing wrong with my equipment at this
 point, I went on to brew my Rye Smoked Porter again. At this point, I had
 deep-cleaned all of my equipment, replaced suspect parts, and knew that it was
-clean of any bacteria. After all, the previous brew went just fine.
+clean of any bacteria. After all, the previous Rye IPA brew went just fine, and
+so did the experiment extract batch.
 
 This time around, I tried my wort/beer every step of the way, too. No signs of
 this flavor on brewday, so pitched my starter yeast, and off to primary
 fermentation it goes.
 
 I sampled the fermenting beer 3 days in and it was clean. Five days in, same
-thing. I'm safe, I thought. Let it ferment all the way, for about 14 days, and
-to my surprise the flavor was back when I kegged.
+thing. I'm safe, I thought. I let it ferment all the way, for about 14 days,
+and to my surprise the flavor was back when I kegged.
 
 I still carbonated it. Before I poured this batch down the drain, I saved a few
 bottles to get more help identifying what's up. I gave a bottle to a local
 friendly brewery, [Cleophus Quealy](http://www.cleoph.us/), who also asked me
 for the recipe and brewing notes.
 
-Brewing notes included the usual brewday notes, but most notably that I used my
-local tap water, but removed chlorine with campden tablets and boiling
-treatment, something that I've done successfuly in brews past.
+Brewing notes included the usual brewday notes, but most notably noted I used
+my local tap water, but removed chlorine with campden tablets, something that
+I've done successfuly in brews past.
 
 Here's what [Peter](https://twitter.com/finack) from Cleophus Quealy had to
 say:
@@ -115,17 +113,18 @@ Strong antiseptic flavor. The phenols in the smoke are mixing crazy with possibl
 Yeah, [chlorophenols](https://en.wikipedia.org/wiki/Chlorophenol). These nasty
 compounds are formed when phenols bond with chlorine. Phenol production is
 evident in some malts and yeasts, notably smoked malts and some yeasts such as
-the [WY3711](https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199among)
-used here among many others, but not really on
+the delicious
+[WY3711](https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199among) used
+here among many others, but not really on
 [WLP001](http://www.whitelabs.com/yeast/wlp001-california-ale-yeast) used for
 the Rye IPA.
 
 Alright, so this makes sense, but does this mean that campden tablets don't
 work? No, it doesn't, and here's the last piece of the puzzle: I started
 getting these off-flavors when I changed something about my brewing process,
-and the key in the yeast starter. I was just using tap water with no filtration
-or treatment to build my starters. Even though we're just talking less than a
-couple of liters of water, this seams to fit the bill.
+and the key lies within the yeast starter. I was just using tap water with no
+filtration or treatment to brew my starters. Even though we're just talking
+less than a couple of liters of water, this seams to fit the bill.
 
 {% img left http://i.imgur.com/ZPqiswr.jpg %}
 
