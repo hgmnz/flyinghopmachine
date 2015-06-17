@@ -24,10 +24,14 @@ brewed these beers:
 3. Rye IPA
 4. Rye Smoked Porter (again)
 
+{% img left http://i.imgur.com/E0UKSu9.jpg %}
+
 In terms of brewing process, I made a few changes before this off-flavor
 appeared in my beers: Use a yeast starter, wort aeration with an aquarium pump
 and diffusion stone, and using yeast nutrients. These changes were correcting
 high-gravity beers which were coming out under-attenuated.
+
+{% img right http://i.imgur.com/wFAKifQ.jpg %}
 
 I first noticed the flavor on the Saison and the Smoked Porter, both of which I
 brewed close enough to each other that I didn't know they both had this
@@ -64,6 +68,16 @@ was there, everyone agreed, but nobody could tell me definitively where the
 flavor came from. I got conflicting advice in that some folks assured me it
 wasn't a bacterial or infection induced flavor as those tend to turn beer
 acidic. So indeed, the plot thickens.
+
+{% img left http://i.imgur.com/4wo9ZYX.jpg %}
+
+At this point I brewed a 2 gallon batch with the purpose of isolating the
+problem by chilling half of it with my plate chiller, and the othe half in an
+ice batch. I made a simple Pale Ale with extract, used some hops I had lying
+around and pitched some dry yeast. The entire purpose was not to make great
+beer, but rather to see if the chiller, hoses or inline thermometer had
+anything to do with it.
+
 
 Next up, I kegged my Rye IPA, and I was surprised and relieved that it didn't
 also have the off-flavor. This was one of those beers that went fast because it
@@ -113,6 +127,8 @@ getting these off-flavors when I changed something about my brewing process,
 and the key in the yeast starter. I was just using tap water with no filtration
 or treatment to build my starters. Even though we're just talking less than a
 couple of liters of water, this seams to fit the bill.
+
+{% img left http://i.imgur.com/ZPqiswr.jpg %}
 
 I've since switched to using RO or carbon-filtered water for my starters, and
 haven't had a problem again, even after brewing the same recipes pressumably
