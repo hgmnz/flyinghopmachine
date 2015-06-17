@@ -39,7 +39,7 @@ equipment or process for that brew. I was pretty much sending a batch of wort
 to ferment, not knowing if it would have this flavor too. I went on
 regardless.
 
-# The quest begins
+## The quest begins
 
 First off, for the Rye IPA batch, I sampled it at various points during the
 brewing process and fermentation to try and determine where it was coming from.
