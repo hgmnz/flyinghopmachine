@@ -24,18 +24,18 @@ brewed these beers:
 3. Rye IPA
 4. Rye Smoked Porter (again)
 
-{% img left http://i.imgur.com/E0UKSu9.jpg %}
-
 In terms of brewing process, I made a few changes before this off-flavor
 appeared in my beers: Use a yeast starter, wort aeration with an aquarium pump
 and diffusion stone, and using yeast nutrients. These changes were correcting
 high-gravity beers which were coming out under-attenuated.
 
-{% img right http://i.imgur.com/wFAKifQ.jpg %}
+{% img left http://i.imgur.com/E0UKSu9.jpg %}
 
 I first noticed the flavor on the Saison and the Smoked Porter, both of which I
 brewed close enough to each other that I didn't know they both had this
 issue as they were fermenting.
+
+{% img right http://i.imgur.com/wFAKifQ.jpg %}
 
 I brewed the Rye IPA pretty much the day I found out about the off-flavor as
 I racked them to kegs, and so I didn't really change anything about my
@@ -69,8 +69,6 @@ flavor came from. I got conflicting advice in that some folks assured me it
 wasn't a bacterial or infection induced flavor as those tend to turn beer
 acidic. So indeed, the plot thickens.
 
-{% img left http://i.imgur.com/4wo9ZYX.jpg %}
-
 At this point I brewed a 2 gallon batch with the purpose of isolating the
 problem by chilling half of it with my plate chiller, and the othe half in an
 ice batch. I made a simple Pale Ale with extract, used some hops I had lying
@@ -78,6 +76,7 @@ around and pitched some dry yeast. The entire purpose was not to make great
 beer, but rather to see if the chiller, hoses or inline thermometer had
 anything to do with it.
 
+{% img left http://i.imgur.com/4wo9ZYX.jpg %}
 
 Next up, I kegged my Rye IPA, and I was surprised and relieved that it didn't
 also have the off-flavor. This was one of those beers that went fast because it
