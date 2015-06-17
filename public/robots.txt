@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://flyinghopmachine.com/sitemap.xml 
+Sitemap: http://www.flyinghopmachine.com/sitemap.xml 

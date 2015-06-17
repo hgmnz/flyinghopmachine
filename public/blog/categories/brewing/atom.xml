@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: brewing | Flying Hop Machine]]></title>
-  <link href="http://flyinghopmachine.com/blog/categories/brewing/atom.xml" rel="self"/>
-  <link href="http://flyinghopmachine.com/"/>
-  <updated>2015-06-16T21:28:16-07:00</updated>
-  <id>http://flyinghopmachine.com/</id>
+  <link href="http://www.flyinghopmachine.com/blog/categories/brewing/atom.xml" rel="self"/>
+  <link href="http://www.flyinghopmachine.com/"/>
+  <updated>2015-06-16T21:30:59-07:00</updated>
+  <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
     <email><![CDATA[harold.gimenez+flyinghopmachine@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[What in The World is That Off-flavor?]]></title>
-    <link href="http://flyinghopmachine.com/blog/2015/06/14/what-in-the-world-is-that-off-flavor/"/>
+    <link href="http://www.flyinghopmachine.com/blog/2015/06/14/what-in-the-world-is-that-off-flavor/"/>
     <updated>2015-06-14T00:00:00-07:00</updated>
-    <id>http://flyinghopmachine.com/blog/2015/06/14/what-in-the-world-is-that-off-flavor</id>
+    <id>http://www.flyinghopmachine.com/blog/2015/06/14/what-in-the-world-is-that-off-flavor</id>
     <content type="html"><![CDATA[<p>After a couple of years brewing I came across one of the biggest difficulties
 in my brewing to date. A bold, in your face, undeniable off-flavor had plagued
 my (home) brewhouse. The flavor was medicinal, plastic-like, pool-like and very
