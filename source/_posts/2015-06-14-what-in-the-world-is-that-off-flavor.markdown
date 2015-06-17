@@ -103,7 +103,8 @@ Brewing notes included the usual brewday notes, but most notably that I used my
 local tap water, but removed chlorine with campden tablets and boiling
 treatment, something that I've done successfuly in brews past.
 
-Here's what they had to say:
+Here's what [Peter](https://twitter.com/finack) from Cleophus Quealy had to
+say:
 
 {% blockquote %}
 Strong antiseptic flavor. The phenols in the smoke are mixing crazy with possibly the chlorine in the water.  I would ditch the campden tables and go to carbon filtering. Pretty hard to diagnose with that strong off flavor. Biggest guess is chlorophenols esp with the smoked malts.
