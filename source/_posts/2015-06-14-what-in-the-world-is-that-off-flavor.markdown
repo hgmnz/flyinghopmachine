@@ -53,14 +53,13 @@ it there I was convinced this was not an easy thing to fix. The advice I got
 was to deep clean everything, and to replace racking canes or hoses that might
 be suspect.
 
-I chill my wort with a [plate
-chiller](http://www.blichmannengineering.com/products/therminator), so the
-output wort hose for this was suspect, as well as the chiller itself. I later
-replaced this hose, as well as my racking cane which had some buildup. It turns
-out you can't *really* clean racking canes well, it's good to replace these
-every 6 - 12 months or so depending on how much you brew. I also got a hose
-cleaning brush as I noticed some buildup in some hoses as well as in the
-in-line [ThruMometer](http://www.blichmannengineering.com/products/thrumometer)
+I chill my wort with a [plate chiller](http://www.blichmannengineering.com/products/therminator),
+so the output wort hose for this was suspect, as well as the chiller itself. I
+later replaced this hose, as well as my racking cane which had some buildup. It
+turns out you can't *really* clean racking canes well, it's good to replace
+these every 6 - 12 months or so depending on how much you brew. I also got a
+hose cleaning brush as I noticed some buildup in some hoses as well as in the
+in-line [ThruMometer](http://www.blichmannengineering.com/products/thrumometer).
 
 I also took the Saison and the Smoked Porter to my homebrew meetup, which
 includes many experienced brewers as well as a BJCP judge. The obvious flavor
