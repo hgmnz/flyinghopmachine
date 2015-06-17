@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Flying Hop Machine]]></title>
-  <link href="http://flyinghopmachine.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: science | Flying Hop Machine]]></title>
+  <link href="http://flyinghopmachine.com/blog/categories/science/atom.xml" rel="self"/>
   <link href="http://flyinghopmachine.com/"/>
   <updated>2015-06-16T19:00:29-07:00</updated>
   <id>http://flyinghopmachine.com/</id>
@@ -104,8 +104,7 @@ successfuly in brews past.</p>
 
 <p>Here&rsquo;s what they had to say:</p>
 
-<blockquote><p>Strong antiseptic flavor. The phenols in the smoke are mixing crazy with possibly the chlorine in the water.  I would ditch the campden tables and go to carbon filtering. Pretty hard to diagnose with that strong off flavor. Biggest guess is chlorophenols esp with the smoked malts.</p></blockquote>
-
+<p><blockquote><p>Strong antiseptic flavor. The phenols in the smoke are mixing crazy with possibly the chlorine in the water.  I would ditch the campden tables and go to carbon filtering. Pretty hard to diagnose with that strong off flavor. Biggest guess is chlorophenols esp with the smoked malts.</p></blockquote></p>
 
 <h2>ChloroWHAT?</h2>
 
