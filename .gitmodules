@@ -10,3 +10,6 @@
 [submodule "source/_includes/custom/asides/ota"]
 	path = source/_includes/custom/asides/ota
 	url = https://github.com/raisedadead/octopress-twitter-aside.git
+[submodule ".themes/readify"]
+	path = .themes/readify
+	url = https://github.com/vladigleba/readify.git
