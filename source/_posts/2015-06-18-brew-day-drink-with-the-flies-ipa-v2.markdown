@@ -75,7 +75,7 @@ The final recipe looks like this:
 5 lb American 2-row<br>
 7 lb American pilsener<br>
 2 lb Vienna<br>
-8 oz Munich<br>
+1 lb Munich<br>
 12oz Dextrin<br>
 8oz Wheat Malt
 
