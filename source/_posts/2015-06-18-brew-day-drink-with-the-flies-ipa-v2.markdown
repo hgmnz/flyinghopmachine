@@ -61,6 +61,8 @@ to get even more of a tropical and grapefruit aroma and flavor.
 It could use a bit more ester production in fermentation, so I am switching
 WLP001 with a bit more flavorful but dry strain, WLP007.
 
+### Mash pH
+
 My mash pH on the last brew was at 5.8 and I corrected it by adding some
 phosphoric acid right in the mash cooler. While I have changed the grist, it's
 still fairly, so this time around I'm increasing the calcium content in the
@@ -73,8 +75,9 @@ The final recipe looks like this:
 5 lb American 2-row<br>
 7 lb American pilsener<br>
 2 lb Vienna<br>
+8 oz Munich<br>
 12oz Dextrin<br>
-0.5 lb Wheat Malt
+8oz Wheat Malt
 
 FWH: 1oz Nelson Sauvin<br>
 60m: 1z Centennial<br>
