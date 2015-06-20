@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.flyinghopmachine.com/blog/2015/06/20/brew-day-drink-with-the-flies-ipa-v2/</loc>
+    <lastmod>2015-06-20T22:05:11-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.flyinghopmachine.com/blog/2015/06/14/what-in-the-world-is-that-off-flavor/</loc>
     <lastmod>2015-06-14T00:00:00-07:00</lastmod>
   </url>
@@ -18,5 +22,14 @@
   </url>
   <url>
     <loc>http://www.flyinghopmachine.com/blog/categories/water/</loc>
+  </url>
+  <url>
+    <loc>http://www.flyinghopmachine.com/blog/categories/brewday/</loc>
+  </url>
+  <url>
+    <loc>http://www.flyinghopmachine.com/blog/categories/recipe/</loc>
+  </url>
+  <url>
+    <loc>http://www.flyinghopmachine.com/blog/categories/ipa/</loc>
   </url>
 </urlset>
