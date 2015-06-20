@@ -63,13 +63,15 @@ WLP001 with a bit more flavorful but dry strain, WLP007.
 ### Mash pH
 
 My mash pH on the last brew was at 5.8 and I corrected it by adding some
-phosphoric acid right in the mash cooler. While I have changed the grist, it's
-still fairly, so this time around I'm increasing the calcium content in the
-mash to help it reach a level closer to 5.3. Last time I used 1.5tsp gypsum and
-1/4tsp calcium chloride in my strike water. I'll increase that to 2tsp of
-gypsum and a 1/2tsp of calcium chloride this time around.
+phosphoric acid right in the mash cooler. For this brew I've changed the grist
+by adding some Vienna and Munich malts, which are toasted malts that might add
+some acidity in the mash. So I'm going to leave my salt additions as is and
+likely get to the right pH range.
 
 The final recipe looks like this:
+
+Water: RO treated with 1.5tsp gypsum and 1/4tsp calcium chloride in strike
+water. Add 1/4 tsp gypsum in boil.
 
 5 lb American 2-row<br>
 7 lb American pilsener<br>
