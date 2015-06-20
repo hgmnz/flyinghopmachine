@@ -70,7 +70,7 @@ likely get to the right pH range.
 
 The final recipe looks like this:
 
-Water: RO treated with 1.5tsp gypsum and 1/4tsp calcium chloride in strike
+Water: RO treated with 1.5tsp gypsum and 1/4 tsp calcium chloride in strike
 water. Add 1/4 tsp gypsum in boil.
 
 5 lb American 2-row<br>
