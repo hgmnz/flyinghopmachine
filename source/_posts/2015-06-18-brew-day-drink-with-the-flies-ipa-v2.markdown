@@ -37,7 +37,7 @@ brews going forward.
 The resulting beer was OK, but it had some issues that I will address in this
 version:
 
-### 1. Color and mouth feel
+### Color and mouth feel
 
 It didn't have enough of a malt backbone, and honestly it fell a bit flat and
 uninteresting. The color was super pale and yellow, which I was going for, but
@@ -48,7 +48,7 @@ with some Vienna and Munich malts to layer some complexity without adding any
 significant sweetness, and adding I'm also adding a bit of dextrin to increase
 body.
 
-### 2. Hop aroma
+### Hop aroma
 
 It could definitely use more hop aroma and bitterness. I'm now adding a proper
 bittering addition with Centennial, one of my go-to bittering hops for it's
@@ -56,7 +56,7 @@ high alpha acid content and low cost. I'm also pushing more hops to the later
 additions to get more flavor out of them, and throwing Galaxy into the mix
 to get even more of a tropical and grapefruit aroma and flavor.
 
-### 3. Yeast selection
+### Yeast selection
 
 It could use a bit more ester production in fermentation, so I am switching
 WLP001 with a bit more flavorful but dry strain, WLP007.
