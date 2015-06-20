@@ -45,8 +45,7 @@ I think it could use a bit more color.
 
 To address this, I'm changing the grist by replacing some of the 2-row malt
 with some Vienna and Munich malts to layer some complexity without adding any
-significant sweetness, and adding I'm also adding a bit of dextrin to increase
-body.
+significant sweetness, and I'm also adding a bit of dextrin to increase body.
 
 ### Hop aroma
 
