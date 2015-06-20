@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'Brew Day: Drink with the flies IPA v2'"
+title: "Brew Day: Drink with the flies IPA v2"
 date: 2015-06-20 22:05:11 -0700
 comments: true
 categories: [brewday, recipe, IPA]
