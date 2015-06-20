@@ -70,11 +70,11 @@ gypsum and a 1/2tsp of calcium chloride this time around.
 
 The final recipe looks like this:
 
-5 lb 2-row<br>
+5 lb American 2-row<br>
 7 lb American pilsener<br>
 2 lb Vienna<br>
 12oz Dextrin<br>
-0.5 lb wheat
+0.5 lb Wheat Malt
 
 FWH: 1oz Nelson Sauvin<br>
 60m: 1z Centennial<br>
