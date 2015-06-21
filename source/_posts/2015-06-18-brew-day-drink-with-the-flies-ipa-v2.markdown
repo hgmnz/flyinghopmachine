@@ -83,7 +83,7 @@ The final recipe looks like this:
 *Water treatments:*
 
 RO treated with 1.5tsp gypsum and 1/4 tsp calcium chloride in
-strike water. Add 1/4 tsp gypsum in boil.<br>
+strike water. Add 1/2 tsp gypsum in boil.<br>
 <br>Lower sparge water to a pH of 5.4 with phosphoric acid.
 
 *Grain bill:*
