@@ -15,11 +15,11 @@ For hops, I used Waimea, Australian Summer and Nelson Saivan as follows:
 
 <!--more-->
 
-* FWH: 1oz Waimea, 1oz Nelson Sauvin
-* 30m: 1 oz Waimea
-* 5m: 1oz Australian Summer, 1oz Waimea
-* 0m: 1oz Nelson Sauvin 1oz Australian Summer
-* Dry hop for 3 days: 1oz Waimea, 1oz Nelson Sauvin
+FWH: 1oz Waimea, 1oz Nelson Sauvin<br>
+30m: 1 oz Waimea<br>
+5m: 1oz Australian Summer, 1oz Waimea<br>
+0m: 1oz Nelson Sauvin 1oz Australian Summer<br>
+Dry hop for 3 days: 1oz Waimea, 1oz Nelson Sauvin
 
 I was also experimenting with large First Wort Hopping (FWH) additions while
 avoiding any bittering additions at all. I was trying to see how much bittering
@@ -77,12 +77,12 @@ The final recipe looks like this:
 
 *Water treatments:*
 
-* RO treated with 1.5tsp gypsum and 1/4 tsp calcium chloride in
-strike water. Add 1/4 tsp gypsum in boil.
-* Lower sparge water to a pH of 5.4 with phosphoric acid.
-
+RO treated with 1.5tsp gypsum and 1/4 tsp calcium chloride in
+strike water. Add 1/4 tsp gypsum in boil.<br>
+<br>Lower sparge water to a pH of 5.4 with phosphoric acid.
 
 *Grain bill:*
+
 12 lb Rahr 2-row<br>
 2 lb Vienna Malt<br>
 1 lb Ligh Munich Malt<br>
@@ -93,16 +93,18 @@ strike water. Add 1/4 tsp gypsum in boil.
 Mash at 149F for 90 minutes.
 
 *Hop schedule:*
+
 FWH: 1oz Nelson Sauvin<br>
 60m: 1z CTZ<br>
-5m: 10z Nelson Sauvin & 1oz Australian Summer
-2m: 1oz Australian Summer, 1oz Waimea & 1oz Galaxy
-Steep for 20m: 1oz Waimea, 1oz Galaxy
-
-WLP007 - Dry English Ale Yeast
+5m: 10z Nelson Sauvin & 1oz Australian Summer<br>
+2m: 1oz Australian Summer, 1oz Waimea & 1oz Galaxy<br>
+Steep for 20m: 1oz Waimea, 1oz Galaxy<br>
 
 Dry hop for 3 days:<br>
 1 oz Waimea & 2 oz Galaxy
+
+WLP007 - Dry English Ale Yeast
+
 
 ## Brew notes
 
