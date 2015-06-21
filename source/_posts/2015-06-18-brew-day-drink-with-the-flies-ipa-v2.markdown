@@ -59,6 +59,9 @@ acid content. I'm also pushing more hops to the later additions to get more
 flavor out of them, and throwing Galaxy into the mix to get even more of a
 tropical and grapefruit aroma and flavor.
 
+In general, I like the direction of this combination of hops though, and that
+remains the focus of my "Drink with the flies".
+
 ### Yeast selection
 
 It could use a bit more ester production in fermentation, so I am switching
