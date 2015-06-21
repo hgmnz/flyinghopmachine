@@ -105,6 +105,10 @@ FWH: 1oz Nelson Sauvin<br>
 2m: 1oz Australian Summer, 1oz Waimea & 1oz Galaxy<br>
 Steep for 20m: 1oz Waimea, 1oz Galaxy<br>
 
+*Other:*
+
+Whirfloc tablet at 15 minutes left of the boil
+
 Dry hop for 3 days:<br>
 1 oz Waimea & 2 oz Galaxy
 
