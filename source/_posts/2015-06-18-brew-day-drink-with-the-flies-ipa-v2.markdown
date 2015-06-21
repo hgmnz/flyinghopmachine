@@ -135,4 +135,4 @@ worked well. I removed the CTZ bag 1 minute before the boil was done.
 
 Chilled down to 68 F with a plate chiller. Aerated wort for 40m, pitched my yeast starter, and attached a blow-off tube right away. I expect this to be an aggressive fermentation because of gravity and yeast choice.
 
-OG: 1.073. This is Double IPA territory :)
+OG: 1.078. This is Double IPA territory :)
