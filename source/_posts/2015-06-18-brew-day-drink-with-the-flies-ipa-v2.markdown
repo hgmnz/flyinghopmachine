@@ -128,6 +128,9 @@ before. Final Sparge water pH was 5.3.
 I sparged for 45m and collected 7.6g of wort. Waited for hot break which took
 about 10m, and started the 60m hop addition.
 
+At 15 minutes left of the boil, added a whirfloc tablet, something I do with
+all my brews.
+
 I didn't have enough hop bags, was missing one for the steap additions. I
 decided to remove the CTZ bag, clean it up, and use that for the steap
 addition. I didn't want to risk having too much trub in the kettle, but this
