@@ -8,8 +8,10 @@ categories: [brewday, recipe, IPA]
 
 I recently brewed an IPA using only New Zealand and Australian hop varieties. I
 was shooting for a very light colored, clear, crisp, and fruity IPA to enjoy in
-the summer. I used a very simple grain bill consisting of 50/50 domestic 2-row
-and pilsener malts, and added a half pound of wheat to aid in head retention.
+the summer. [Here's a
+photo](https://instagram.com/p/4F-drjn2Qs/?taken-by=flyinghopmachine). I used a
+very simple grain bill consisting of 50/50 domestic 2-row and pilsener malts,
+and added a half pound of wheat to aid in head retention.
 
 For hops, I used Waimea, Australian Summer and Nelson Saivan as follows:
 
