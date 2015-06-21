@@ -41,14 +41,19 @@ The recipe ended up as follows:
 
 *Grain bill:*
 
-13 lb Belgian Pilsener Malt
-10 oz Aromatic Malt
+13 lb Belgian Pilsener Malt<br>
+10 oz Aromatic Malt<br>
 8 oz Flaked Wheat
 
 *Hop schedule:*
 
-60m: 1 oz Hallertau & 1oz Saaz
+60m: 1 oz Hallertau & 1oz Saaz<br>
 2m: 5 0z Hallertau & 1 oz Saaz
+
+*Other:*
+
+Whirfloc tablet at 15 minutes left of the boil<br>
+2 lb [Golden Candi Syrup](http://www.candisyrup.com/)
 
 WLP510 - Bastogne Ale Yeast
 
