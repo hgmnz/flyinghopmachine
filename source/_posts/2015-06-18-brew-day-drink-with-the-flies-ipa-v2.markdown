@@ -121,7 +121,7 @@ down. It was way too much, brought it down to 3.6, so I had to troubleshoot. I
 added 2g of more RO water, but the buffering capacity of this water is so low,
 it only brought it up to 4.1. I then replaced 1g of this water with tap water,
 which has huge alkalinity in my area, and that brought it up to 5.4. I added a
-half of a campdem table to not screw with cholrine which has given me
+half of a campdem tablet to not screw with cholrine which has given me
 [problems](http://www.flyinghopmachine.com/blog/2015/06/20/brew-day-drink-with-the-flies-ipa-v2/)
 before. Final Sparge water pH was 5.3.
 
