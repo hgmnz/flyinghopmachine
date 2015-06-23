@@ -39,6 +39,13 @@ mellow out.
 
 The recipe ended up as follows:
 
+*Water*:
+Start with RO water. Treat strike water with:
+
+* 1tsp Calcium Chloride
+* 3/4 tsp Gypsum
+* 0.5ml phosphoric acid
+
 *Grain bill:*
 
 13 lb Belgian Pilsener Malt<br>
@@ -57,6 +64,32 @@ Whirfloc tablet at 15 minutes left of the boil<br>
 
 WLP510 - Bastogne Ale Yeast
 
+Mash at 151F for 90 minutes.
+Boil for 90 minutes to reduce chance of DMS.
+
 ## Brew notes
 
-(coming soon...)
+I Treated RO water per the recipe. This brought strike water pH down to 6.1.
+Along with the salt additions, the mash pH was on target, at 5.4.  Didn't have
+to treat mash pH at all, even for such a light-colored grist.  The approach of
+using phosphoric acid in strike water rather than adding acidulated malt is one
+that works well.
+
+I mashed at 151F.
+
+For sparge water, I added 0.5ml of phosphoric acid which brought it down to a
+pH of 5.7. This is about the right amount of phosphoric acid to add the sparge
+water without overshooting it!
+
+[I collected 8 gallons of 1.055 wort](https://instagram.com/p/4NVgr1H2cu/?taken-by=flyinghopmachine).
+
+Fired up the kettle, it started boiling 12 minutes later, and got to the hot
+break 4 minutes after that. At this point I started the 90 minute boil.
+
+Added kettle additions per the recipe.
+
+Post-boil volume was 6.3 gallons. Chilled and transfered to fermenter where I
+aerated for roughly 40 minutes.
+
+Pitched two vials of WLP510 as I hadn't prepared a starter this time around.
+Stored fermenter at room temperature where it will sit for ~2 weeks.
