@@ -4,7 +4,7 @@
   <title><![CDATA[Flying Hop Machine]]></title>
   <link href="http://www.flyinghopmachine.com/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
-  <updated>2015-06-21T12:08:26-07:00</updated>
+  <updated>2015-06-23T09:51:54-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -55,6 +55,16 @@ mellow out.</p>
 
 <p>The recipe ended up as follows:</p>
 
+<p><em>Water</em>:
+Start with RO water. Treat strike water with:</p>
+
+<ul>
+<li>1tsp Calcium Chloride</li>
+<li>&frac34; tsp Gypsum</li>
+<li>0.5ml phosphoric acid</li>
+</ul>
+
+
 <p><em>Grain bill:</em></p>
 
 <p>13 lb Belgian Pilsener Malt<br>
@@ -73,9 +83,35 @@ mellow out.</p>
 
 <p>WLP510 - Bastogne Ale Yeast</p>
 
+<p>Mash at 151F for 90 minutes.
+Boil for 90 minutes to reduce chance of DMS.</p>
+
 <h2>Brew notes</h2>
 
-<p>(coming soon&hellip;)</p>
+<p>I Treated RO water per the recipe. This brought strike water pH down to 6.1.
+Along with the salt additions, the mash pH was on target, at 5.4.  Didn&rsquo;t have
+to treat mash pH at all, even for such a light-colored grist.  The approach of
+using phosphoric acid in strike water rather than adding acidulated malt is one
+that works well.</p>
+
+<p>I mashed at 151F.</p>
+
+<p>For sparge water, I added 0.5ml of phosphoric acid which brought it down to a
+pH of 5.7. This is about the right amount of phosphoric acid to add the sparge
+water without overshooting it!</p>
+
+<p><a href="https://instagram.com/p/4NVgr1H2cu/?taken-by=flyinghopmachine">I collected 8 gallons of 1.055 wort</a>.</p>
+
+<p>Fired up the kettle, it started boiling 12 minutes later, and got to the hot
+break 4 minutes after that. At this point I started the 90 minute boil.</p>
+
+<p>Added kettle additions per the recipe.</p>
+
+<p>Post-boil volume was 6.3 gallons. Chilled and transfered to fermenter where I
+aerated for roughly 40 minutes.</p>
+
+<p>Pitched two vials of WLP510 as I hadn&rsquo;t prepared a starter this time around.
+Stored fermenter at room temperature where it will sit for ~2 weeks.</p>
 ]]></content>
   </entry>
   
