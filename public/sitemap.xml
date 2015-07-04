@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.flyinghopmachine.com/blog/2015/07/03/brew-day-independence-saison/</loc>
+    <lastmod>2015-07-03T20:36:43-07:00</lastmod>
+  </url>
+  <url>
     <loc>http://www.flyinghopmachine.com/blog/2015/06/21/brew-day-daddys-belgian-blonde-ale/</loc>
     <lastmod>2015-06-21T11:47:05-07:00</lastmod>
   </url>
@@ -38,5 +42,8 @@
   </url>
   <url>
     <loc>http://www.flyinghopmachine.com/blog/categories/belgian/</loc>
+  </url>
+  <url>
+    <loc>http://www.flyinghopmachine.com/blog/categories/brewday-saison/</loc>
   </url>
 </urlset>
