@@ -108,4 +108,4 @@ recipe. Ended up with 6.5 gallons in the kettle.
 Chilled and collected 5.5 gallons of wort in the fermenter, spot on.
 
 Pitched the yeast starter that I had prepared the previous day, and set it to
-ferment at room temperature.
+ferment at room temperature, about 68F.
