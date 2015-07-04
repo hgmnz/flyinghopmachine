@@ -11,6 +11,8 @@ beer is being brewed for a special professional event. I'll be given the chance
 to talk about the brewing process, and given the audience is engineers and
 bio-medical scientists I might dive into water quemistry and focus on that.
 
+<!--more-->
+
 I was asked to bring what I consider to be "my best brew." This is of course a
 terrible question to ask a brewer, just like a dad doesn't have a favorite
 child. Right, right? So instead I thought about who the audience is, what the
