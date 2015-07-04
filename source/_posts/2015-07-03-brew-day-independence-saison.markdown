@@ -6,10 +6,10 @@ comments: true
 categories: [brewday saison]
 ---
 
-Today I brewed a variaton on a recipe that I've worked on for some time. This
+Today I brewed a variation on a recipe that I've worked on for some time. This
 beer is being brewed for a special professional event. I'll be given the chance
 to talk about the brewing process, and given the audience is engineers and
-bio-medical scientists I might dive into water quemistry and focus on that.
+bio-medical scientists I might dive into water chemistry and focus on that.
 
 <!--more-->
 
@@ -19,11 +19,11 @@ child. Right, right? So instead I thought about who the audience is, what the
 environment is like, and what I thought they'd like the most. There will be
 other homebrewers and there will be a prize for best beer, so let's aim for
 that! In this case, I think I'll be pouring beer to engineers who are open to
-some experimentation but aren't really familiar with the bredth of flavors that
-exist in beer, so I wanted to step a bit outside their confort area while still
-bringing something approachable and very drinkable for many pallettes. I had to
+some experimentation but aren't really familiar with the breadth of flavors that
+exist in beer, so I wanted to step a bit outside their comfort area while still
+bringing something approachable and very drinkable for many palettes. I had to
 stay away from harsh or aggressive flavors, but want it to be exotic enough to
-leave an impression. Things like barleywine, double/tripple IPAs, Imperial
+leave an impression. Things like barley wine, double/tripple IPAs, Imperial
 stouts, might be a bit too aggressive for this purpose. On the other hand Pale
 Ales, Pilseners, or Kölsh might be too safe. I decided to go with a saison that
 has enough of an edge to be interesting, but might be familiar in other ways
@@ -79,6 +79,10 @@ Steep 15m: 1oz Citra & 1oz Saaz<br>
 15m: Whirfloc tablet<br>
 15m: 1 lb [Golden Candi Syrup](http://www.candisyrup.com/)
 
+*Yeast:*
+
+[WY3711 French Saison](https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199).
+
 *Dry hop:*
 
 2 oz of Amarillo for 5 days in secondary/keg.
@@ -90,7 +94,7 @@ water was at 162F, and the mash ended up at 146F. I quickly heated up some
 water and added it in to raise the temperature to 151F.
 
 Initial reading of the mash pH was 4.9. The acidulated malt present in the
-mash, along with the phophoric acid used, the very little buffering capacity in
+mash, along with the phosphoric acid used, the very little buffering capacity in
 my RO water, and the calcium added with the salt treatments, lowered the pH way
 too much. *Next time reduce or remove acidulated malt from grist!*. To solve
 this, I added a NaHCO<sub>3</sub> (Baking soda) in half teaspoon increments
