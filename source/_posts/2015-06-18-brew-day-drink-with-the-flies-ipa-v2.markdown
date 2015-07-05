@@ -110,12 +110,16 @@ Steep for 20m: 1oz Waimea, 1oz Galaxy<br>
 Whirfloc tablet at 15 minutes left of the boil
 
 Dry hop for 3 days:<br>
-1 oz Waimea & 2 oz Galaxy
+1 oz Waimea & 2 oz Nelson Sauvin<br>
+Dry hop for 3 days:
+2 oz Galaxy
 
 WLP007 - Dry English Ale Yeast
 
 
 ## Brew notes
+
+#### June 20, 2015
 
 Mash ended up at 146F. Boiled a quart of water and adjusted up to 149.
 Mash pH was on target, 5.4.
@@ -140,6 +144,13 @@ decided to remove the CTZ bag, clean it up, and use that for the steap
 addition. I didn't want to risk having too much trub in the kettle, but this
 worked well. I removed the CTZ bag 1 minute before the boil was done.
 
-Chilled down to 68 F with a plate chiller. Aerated wort for 40m, pitched my yeast starter, and attached a blow-off tube right away. I expect this to be an aggressive fermentation because of gravity and yeast choice.
+Chilled down to 68 F with a plate chiller. Aerated wort for 40m, pitched my
+yeast starter, and attached a blow-off tube right away. I expect this to be an
+aggressive fermentation because of gravity and yeast choice.
 
 OG: 1.078. This is Double IPA territory :)
+
+#### July 3, 2015
+
+Kegged beer. Gravity reading was 1.020, but it is still
+fermenting. Also added dry hops of 1oz Waimea and 2 oz Nelson Saivon.
