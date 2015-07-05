@@ -3,7 +3,7 @@ layout: post
 title: "Brew day: Independence Saison"
 date: 2015-07-03 20:36:43 -0700
 comments: true
-categories: [brewday, saison]
+categories: [brewday, saison, belgian, recipe]
 ---
 
 Today I brewed a variation on a recipe that I've worked on for some time. This
