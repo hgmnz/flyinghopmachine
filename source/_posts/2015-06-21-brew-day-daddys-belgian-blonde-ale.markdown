@@ -69,6 +69,8 @@ Boil for 90 minutes to reduce chance of DMS.
 
 ## Brew notes
 
+#### June 21
+
 I Treated RO water per the recipe. This brought strike water pH down to 6.1.
 Along with the salt additions, the mash pH was on target, at 5.4.  Didn't have
 to treat mash pH at all, even for such a light-colored grist.  The approach of
@@ -93,3 +95,10 @@ aerated for roughly 40 minutes.
 
 Pitched two vials of WLP510 as I hadn't prepared a starter this time around.
 Stored fermenter at room temperature where it will sit for ~2 weeks.
+
+OG was 1.065
+
+#### July 12
+
+Kegged and took [a gravity reading](https://instagram.com/p/5DXyEgn2ck/). Ended
+at 1.011. Leaving at room temp until there's space in my keezer.
