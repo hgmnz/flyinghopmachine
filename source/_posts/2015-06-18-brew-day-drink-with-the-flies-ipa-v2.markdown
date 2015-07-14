@@ -154,3 +154,18 @@ OG: 1.078. This is Double IPA territory :)
 
 Kegged beer. Gravity reading was 1.020, but it is still
 fermenting. Also added dry hops of 1oz Waimea and 2 oz Nelson Saivon.
+
+#### July 6, 2015
+
+Removed Waimea and Nelson Saivon dry hop bags
+
+#### July 9, 2015
+
+Dry hopped with 2oz Galaxy
+
+#### July 13, 2015
+
+Removed 2oz Galaxy dry hops.
+Smells heavily of passionfruit, might as well call it passion IPA! :)
+It appears to continue to ferment as it is still generating CO<sub>2</sub>, so
+leaving it in keg at room temperature until activity stops.
