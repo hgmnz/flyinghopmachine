@@ -4,7 +4,7 @@
   <title><![CDATA[Flying Hop Machine]]></title>
   <link href="http://www.flyinghopmachine.com/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
-  <updated>2015-07-26T23:17:41-07:00</updated>
+  <updated>2015-07-27T08:53:52-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -57,10 +57,10 @@ should also aid with head stabilization.</p>
 <tr>
 <td> 6g         </td>
 <td> 60m       </td>
-<td>       </td>
-<td>       </td>
-<td>       </td>
-<td>     </td>
+<td> 47    </td>
+<td> 1.085 </td>
+<td> ?     </td>
+<td> ?   </td>
 </tr>
 </tbody>
 </table>
@@ -222,7 +222,9 @@ chloride to sulfate ratio.</p>
 
 <p>Once the hour was complete, chilled wort to 70F and started aerating. Aerated for 45m, and pitched starter. Stirrer bar dropped into beer, woops!</p>
 
-<p>Set up a blowoff tube right away, I expect aggressive fermentation.</p>
+<p>Measured OG was 1.085.</p>
+
+<p>Pitched the starter. Set up a blowoff tube right away, I expect aggressive fermentation.</p>
 
 <p>This fermentation started <em>fast</em>. It had a lag time of just three hours.</p>
 ]]></content>
