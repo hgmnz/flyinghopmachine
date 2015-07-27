@@ -15,7 +15,7 @@ didn't pursue brewing just yet as I didn't really have the space.
 
 The first craft beers I ever tried were Harpoon IPA and Sam Adams Boston Lager.
 I liked them. A lot. I lived in Boston and that's what folks would drink over
-there. Well, and Guiness Draught of course.
+there. Well, and Guiness Draught of course, and everything Dogfish Head makes.
 
 I then moved to the west coast and tried more delicious IPAs among many many
 beers I can't even remember right now, but this is where my love of beer really
