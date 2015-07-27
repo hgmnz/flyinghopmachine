@@ -48,46 +48,61 @@ brew this beer.
 
 The recipe is:
 
+| Batch Size | Boil Time | IBU   | OG    | FG    | ABV |
+| ---------- | --------- | ----- | ----- | ----- | --- |
+| 6g         | 60m       | 72    | 1.065 | 1.006 | 7.8 |
+
+Note that IBU is estimated, as First Worth Hopping IBU contribution is unknown.
+
 *Water:*
 
 Start with RO water. Treat strike water with:
 
-* 1tsp Calcium Chloride
-* 3/4 tsp Gypsum
-* 0.5ml phosphoric acid
+| Name             | Amount  |
+| ---------------- | ------  |
+| Gypsum           | 3/4 tsp |
+| Calcium Chloride | 1 tsp   |
+| Phosphoric Acid  | 0.5ml   |
 
-*Grain bill:*
+*Fermentables*
 
-12.5 lb Belgian Pilsener (Castle)<br>
-8 oz Flakes Wheat<br>
-8 oz Flakes Rye<br>
-8 oz Flakes Rye<br>
-6 oz Acidulated Malt (Use less! See below)
+| Name                  | Amount                     | Percent     |
+| --------------------- | -------------------------- | ----------- |
+| Belgian Pilsen        | 12.5 lb                    | 90.1%       |
+| Flaked Wheat          | 8 oz                       | 3.6%        |
+| Flaked Rye            | 8 oz                       | 3.6%        |
+| Acidulated Malt       | 6 oz (use less! See below) | 2.7%        |
 
 Mash at 151F for 90 minutes.
 
-*Hop schedule:*
+*Hop schedule*
 
-FWH: Sorachi Ace<br>
-60m: Mt. Hood<br>
-15m: Mt. Hood<br>
-5m: 1oz Citra & 1oz Saaz<br>
-Steep 15m: 1oz Citra & 1oz Saaz<br>
+| Variety     | Time          | Amount | Form       |
+| -------     | ------        | ------ | ---------- |
+| Sorachi Ace | FWH           | 1oz    | Palletes   |
+| Mt. Hood    | 60m           | 1oz    | Whole Hops |
+| Mt. Hood    | 15m           | 1oz    | Whole Hops |
+| Citra       | 5m            | 1oz    | Whole Hops |
+| Saaz        | 5m            | 1oz    | Whole Hops |
+| Citra       | Steep for 15m | 1oz    | Whole Hops |
+| Saaz        | Steep for 15m | 1oz    | Whole Hops |
 
 *Other:*
 
-15m: Whirfloc tablet<br>
-15m: 1 lb [Golden Candi Syrup](http://www.candisyrup.com/)
+| Name                                             | Amount   | Use              |
+| ------------------------------------------------ | ------   | ---              |
+| Whirlfloc                                        | 1 tablet | 15m left in boil |
+| [Golden Candi Syrup](http://www.candisyrup.com/) | 1 lb     | 10m left in boil |
 
 *Yeast:*
 
-[WY3711 French Saison](https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199).
-
-*Dry hop:*
-
-2 oz of Amarillo for 5 days in secondary/keg.
+| Name                         | Lab     | Attenuation |
+| ---------------------------- | ------- | ----------  |
+| WY3711 French Saison         | WYeast  | 77 - 83%    |
 
 ## Brew notes
+
+#### July 3, 2015
 
 I treaded RO water per the recipe, lowering strike water pH to 6.1. Strike
 water was at 162F, and the mash ended up at 146F. I quickly heated up some
@@ -113,3 +128,10 @@ Chilled and collected 5.5 gallons of wort in the fermenter, spot on.
 
 Pitched the yeast starter that I had prepared the previous day, and set it to
 ferment at room temperature, about 68F.
+
+Measured OG was 1.065
+
+#### July 26, 2015
+
+Kegged beer and left it at room temperature.
+FG was 1.006. ABV is 7.8%
