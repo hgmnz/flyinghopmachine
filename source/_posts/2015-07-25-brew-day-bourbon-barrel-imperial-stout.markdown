@@ -32,7 +32,7 @@ The recipe is the following:
 
 | Batch Size | Boil Time | IBU   | OG    | FG    | ABV |
 | ---------- | --------- | ----- | ----- | ----- | --- |
-| 6g         | 60m       |       |       |       |     |
+| 6g         | 60m       | 47    | 1.085 | ?     | ?   |
 
 *Water*
 
@@ -91,6 +91,8 @@ Waited 10 minutes for hot break, and started the 60m countdown. Followed hop and
 
 Once the hour was complete, chilled wort to 70F and started aerating. Aerated for 45m, and pitched starter. Stirrer bar dropped into beer, woops!
 
-Set up a blowoff tube right away, I expect aggressive fermentation.
+Measured OG was 1.085.
+
+Pitched the starter. Set up a blowoff tube right away, I expect aggressive fermentation.
 
 This fermentation started *fast*. It had a lag time of just three hours.
