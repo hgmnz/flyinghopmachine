@@ -80,41 +80,57 @@ the pH to 5.4.
 
 The final recipe looks like this:
 
-*Water treatments:*
+| Batch Size | Boil Time | IBU   | OG    | FG    | ABV |
+| ---------- | --------- | ----- | ----- | ----- | --- |
+| 6g         | 60m       | 72    | 1.078 | 1.012 | 8.8 |
 
-RO treated with 1.5tsp gypsum and 1/4 tsp calcium chloride in
-strike water. Add 1/2 tsp gypsum in boil.<br>
-<br>Lower sparge water to a pH of 5.4 with phosphoric acid.
+*Water*
 
-*Grain bill:*
+Start with RO water. Treat strike water with:
 
-12 lb Rahr 2-row<br>
-2 lb Vienna Malt<br>
-1 lb Ligh Munich Malt<br>
-8oz Dextrin<br>
-8oz Wheat Malt<br>
-4oz Acidulated Malt
+| Name             | Amount  |
+| ---------------- | ------  |
+| Gypsum           | 1.5 tsp |
+| Calcium Chloride | 1/4 tsp |
+| Phosphoric Acid  | 0.5ml   |
+
+Add 1/2 tsp gypsum in boil.
+
+*Fermentables*
+
+
+| Name                  | Amount | Percent     |
+| --------------------- | ------ | ----------- |
+| Rahr 2-row            | 12 lb  | 73.8 %      |
+| Vienna Malt           | 2 lb   | 12.3 %      |
+| Light Munich Malt     | 1 lb   | 6.2 %       |
+| Dextrin               | 8 oz   | 3.1 %       |
+| Wheat Malt            | 8 oz   | 3.1 %       |
+| Acidulated Malt       | 4 oz   | 1.5 %       |
 
 Mash at 149F for 90 minutes.
 
 *Hop schedule:*
 
-FWH: 1oz Nelson Sauvin<br>
-60m: 1z CTZ<br>
-5m: 10z Nelson Sauvin & 1oz Australian Summer<br>
-2m: 1oz Australian Summer, 1oz Waimea & 1oz Galaxy<br>
-Steep for 20m: 1oz Waimea, 1oz Galaxy<br>
+| Variety           | Time                      | Amount | Form       |
+| -------           | ------                    | ------ | ---------- |
+| Nelson Sauvin     | FWH                       | 1oz    | Palletes   |
+| Centennial        | 60m                       | 1oz    | Palletes   |
+| Australian Summer | 2m                        | 1oz    | Palletes   |
+| Waimea            | 2m                        | 1oz    | Palletes   |
+| Galaxy            | 2m                        | 1oz    | Palletes   |
+| Waimea            | Steep for 15m             | 1oz    | Palletes   |
+| Galaxy            | Steep for 15m             | 1oz    | Palletes   |
+| Waimea            | Dry hop 3 days            | 1oz    | Palletes   |
+| Nelson Sauvin     | Dry hop 3 days            | 2oz    | Palletes   |
+| Galaxy            | Dry hop 3 days (separate) | 2 oz   | Palletes   |
 
-*Other:*
 
-Whirfloc tablet at 15 minutes left of the boil
+*Yeast*
 
-Dry hop for 3 days:<br>
-1 oz Waimea & 2 oz Nelson Sauvin<br>
-Dry hop for 3 days:
-2 oz Galaxy
-
-WLP007 - Dry English Ale Yeast
+| Name                         | Lab         | Attenuation |
+| ---------------------------- | ----------- | ----------  |
+| WLP007 Dry English Ale Yeast | White Labs  | 70 - 80%    |
 
 
 ## Brew notes
@@ -169,3 +185,8 @@ Removed 2oz Galaxy dry hops.
 Smells heavily of passionfruit, might as well call it passion IPA! :)
 It appears to continue to ferment as it is still generating CO<sub>2</sub>, so
 leaving it in keg at room temperature until activity stops.
+
+#### July 25, 2015
+
+FG: 1.012 (resulting in an 8.8% ABV DIPA)
+Set it in keezer and began carbonation.
