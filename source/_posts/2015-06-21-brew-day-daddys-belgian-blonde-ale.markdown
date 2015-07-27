@@ -39,30 +39,49 @@ mellow out.
 
 The recipe ended up as follows:
 
-*Water*:
+| Batch Size | Boil Time | IBU   | OG    | FG    | ABV |
+| ---------- | --------- | ----- | ----- | ----- | --- |
+| 6g         | 90m       | 20    | 1.065 | 1.009 | 7.1 |
+
+*Water*
+
 Start with RO water. Treat strike water with:
 
-* 1tsp Calcium Chloride
-* 3/4 tsp Gypsum
-* 0.5ml phosphoric acid
+| Name             | Amount  |
+| ---------------- | ------  |
+| Calcium Chloride | 1 tsp   |
+| Gypsum           | 3/4 tsp |
+| Phosphoric Acid  | 0.5ml   |
 
-*Grain bill:*
+*Fermentables*
 
-13 lb Belgian Pilsener Malt<br>
-10 oz Aromatic Malt<br>
-8 oz Flaked Wheat
+| Name                  | Amount | Percent     |
+| --------------------- | ------ | ----------- |
+| Belgian Pilsen Malt   | 13lb   | 92%         |
+| Aromatic Malt         | 10oz   | 4.4%        |
+| Flaked Wheat          | 8oz    | 3.5%        |
 
-*Hop schedule:*
+*Hop schedule*
 
-60m: 1 oz Hallertau & 1oz Saaz<br>
-2m: 5 0z Hallertau & 1 oz Saaz
+| Variety   | Time   | Amount | Form       |
+| -------   | ------ | ------ | ---------- |
+| Hallertau | 60m    | 1oz    | Whole hops |
+| Saaz      | 60m    | 1oz    | Whole hops |
+| Hallertau | 2m     | 1oz    | Whole hops |
+| Saaz      | 2m     | 1oz    | Whole hops |
 
-*Other:*
+*Other*
 
-Whirfloc tablet at 15 minutes left of the boil<br>
-2 lb [Golden Candi Syrup](http://www.candisyrup.com/)
+| Name                                             | Amount   | Use              |
+| ------------------------------------------------ | ------   | ---              |
+| Whirlfloc                                        | 1 tablet | 15m left in boil |
+| [Golden Candi Syrup](http://www.candisyrup.com/) | 2 lb     | 10m left in boil |
 
-WLP510 - Bastogne Ale Yeast
+*Yeast*
+
+| Name                       | Lab         | Attenuation |
+| -------------------------- | ----------- | ----------  |
+| WLP510 Bastogne Ale Yeast  | White Labs  | 74 - 80%    |
 
 Mash at 151F for 90 minutes.
 Boil for 90 minutes to reduce chance of DMS.
