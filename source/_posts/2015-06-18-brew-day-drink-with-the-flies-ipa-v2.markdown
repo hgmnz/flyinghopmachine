@@ -98,7 +98,6 @@ Add 1/2 tsp gypsum in boil.
 
 *Fermentables*
 
-
 | Name                  | Amount | Percent     |
 | --------------------- | ------ | ----------- |
 | Rahr 2-row            | 12 lb  | 73.8 %      |
