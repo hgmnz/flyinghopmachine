@@ -4,7 +4,7 @@
   <title><![CDATA[Category: belgian | Flying Hop Machine]]></title>
   <link href="http://www.flyinghopmachine.com/blog/categories/belgian/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
-  <updated>2015-07-14T09:09:07-07:00</updated>
+  <updated>2015-07-26T22:09:21-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -61,49 +61,203 @@ brew this beer.</p>
 
 <p>The recipe is:</p>
 
+<table>
+<thead>
+<tr>
+<th> Batch Size </th>
+<th> Boil Time </th>
+<th> IBU   </th>
+<th> OG    </th>
+<th> FG    </th>
+<th> ABV </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 6g         </td>
+<td> 60m       </td>
+<td> 72    </td>
+<td> 1.065 </td>
+<td> 1.006 </td>
+<td> 7.8 </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Note that IBU is estimated, as First Worth Hopping IBU contribution is unknown.</p>
+
 <p><em>Water:</em></p>
 
 <p>Start with RO water. Treat strike water with:</p>
 
-<ul>
-<li>1tsp Calcium Chloride</li>
-<li>&frac34; tsp Gypsum</li>
-<li>0.5ml phosphoric acid</li>
-</ul>
+<table>
+<thead>
+<tr>
+<th> Name             </th>
+<th> Amount  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Gypsum           </td>
+<td> &frac34; tsp </td>
+</tr>
+<tr>
+<td> Calcium Chloride </td>
+<td> 1 tsp   </td>
+</tr>
+<tr>
+<td> Phosphoric Acid  </td>
+<td> 0.5ml   </td>
+</tr>
+</tbody>
+</table>
 
 
-<p><em>Grain bill:</em></p>
+<p><em>Fermentables</em></p>
 
-<p>12.5 lb Belgian Pilsener (Castle)<br>
-8 oz Flakes Wheat<br>
-8 oz Flakes Rye<br>
-8 oz Flakes Rye<br>
-6 oz Acidulated Malt (Use less! See below)</p>
+<table>
+<thead>
+<tr>
+<th> Name                  </th>
+<th> Amount                     </th>
+<th> Percent     </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Belgian Pilsen        </td>
+<td> 12.5 lb                    </td>
+<td> 90.1%       </td>
+</tr>
+<tr>
+<td> Flaked Wheat          </td>
+<td> 8 oz                       </td>
+<td> 3.6%        </td>
+</tr>
+<tr>
+<td> Flaked Rye            </td>
+<td> 8 oz                       </td>
+<td> 3.6%        </td>
+</tr>
+<tr>
+<td> Acidulated Malt       </td>
+<td> 6 oz (use less! See below) </td>
+<td> 2.7%        </td>
+</tr>
+</tbody>
+</table>
+
 
 <p>Mash at 151F for 90 minutes.</p>
 
-<p><em>Hop schedule:</em></p>
+<p><em>Hop schedule</em></p>
 
-<p>FWH: Sorachi Ace<br>
-60m: Mt. Hood<br>
-15m: Mt. Hood<br>
-5m: 1oz Citra &amp; 1oz Saaz<br>
-Steep 15m: 1oz Citra &amp; 1oz Saaz<br></p>
+<table>
+<thead>
+<tr>
+<th> Variety     </th>
+<th> Time          </th>
+<th> Amount </th>
+<th> Form       </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Sorachi Ace </td>
+<td> FWH           </td>
+<td> 1oz    </td>
+<td> Palletes   </td>
+</tr>
+<tr>
+<td> Mt. Hood    </td>
+<td> 60m           </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+</tr>
+<tr>
+<td> Mt. Hood    </td>
+<td> 15m           </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+</tr>
+<tr>
+<td> Citra       </td>
+<td> 5m            </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+</tr>
+<tr>
+<td> Saaz        </td>
+<td> 5m            </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+</tr>
+<tr>
+<td> Citra       </td>
+<td> Steep for 15m </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+</tr>
+<tr>
+<td> Saaz        </td>
+<td> Steep for 15m </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+</tr>
+</tbody>
+</table>
+
 
 <p><em>Other:</em></p>
 
-<p>15m: Whirfloc tablet<br>
-15m: 1 lb <a href="http://www.candisyrup.com/">Golden Candi Syrup</a></p>
+<table>
+<thead>
+<tr>
+<th> Name                                             </th>
+<th> Amount   </th>
+<th> Use              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Whirlfloc                                        </td>
+<td> 1 tablet </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> <a href="http://www.candisyrup.com/">Golden Candi Syrup</a> </td>
+<td> 1 lb     </td>
+<td> 10m left in boil </td>
+</tr>
+</tbody>
+</table>
+
 
 <p><em>Yeast:</em></p>
 
-<p><a href="https://www.wyeastlab.com/rw_yeaststrain_detail.cfm?ID=199">WY3711 French Saison</a>.</p>
+<table>
+<thead>
+<tr>
+<th> Name                         </th>
+<th> Lab     </th>
+<th> Attenuation </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> WY3711 French Saison         </td>
+<td> WYeast  </td>
+<td> 77 - 83%    </td>
+</tr>
+</tbody>
+</table>
 
-<p><em>Dry hop:</em></p>
-
-<p>2 oz of Amarillo for 5 days in secondary/keg.</p>
 
 <h2>Brew notes</h2>
+
+<h4>July 3, 2015</h4>
 
 <p>I treaded RO water per the recipe, lowering strike water pH to 6.1. Strike
 water was at 162F, and the mash ended up at 146F. I quickly heated up some
@@ -129,6 +283,13 @@ recipe. Ended up with 6.5 gallons in the kettle.</p>
 
 <p>Pitched the yeast starter that I had prepared the previous day, and set it to
 ferment at room temperature, about 68F.</p>
+
+<p>Measured OG was 1.065</p>
+
+<h4>July 26, 2015</h4>
+
+<p>Kegged beer and left it at room temperature.
+FG was 1.006. ABV is 7.8%</p>
 ]]></content>
   </entry>
   
@@ -174,33 +335,172 @@ mellow out.</p>
 
 <p>The recipe ended up as follows:</p>
 
-<p><em>Water</em>:
-Start with RO water. Treat strike water with:</p>
+<table>
+<thead>
+<tr>
+<th> Batch Size </th>
+<th> Boil Time </th>
+<th> IBU   </th>
+<th> OG    </th>
+<th> FG    </th>
+<th> ABV </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 6g         </td>
+<td> 90m       </td>
+<td> 20    </td>
+<td> 1.065 </td>
+<td> 1.009 </td>
+<td> 7.1 </td>
+</tr>
+</tbody>
+</table>
 
-<ul>
-<li>1tsp Calcium Chloride</li>
-<li>&frac34; tsp Gypsum</li>
-<li>0.5ml phosphoric acid</li>
-</ul>
+
+<p><em>Water</em></p>
+
+<p>Start with RO water. Treat strike water with:</p>
+
+<table>
+<thead>
+<tr>
+<th> Name             </th>
+<th> Amount  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Calcium Chloride </td>
+<td> 1 tsp   </td>
+</tr>
+<tr>
+<td> Gypsum           </td>
+<td> &frac34; tsp </td>
+</tr>
+<tr>
+<td> Phosphoric Acid  </td>
+<td> 0.5ml   </td>
+</tr>
+</tbody>
+</table>
 
 
-<p><em>Grain bill:</em></p>
+<p><em>Fermentables</em></p>
 
-<p>13 lb Belgian Pilsener Malt<br>
-10 oz Aromatic Malt<br>
-8 oz Flaked Wheat</p>
+<table>
+<thead>
+<tr>
+<th> Name                  </th>
+<th> Amount </th>
+<th> Percent     </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Belgian Pilsen Malt   </td>
+<td> 13lb   </td>
+<td> 92%         </td>
+</tr>
+<tr>
+<td> Aromatic Malt         </td>
+<td> 10oz   </td>
+<td> 4.4%        </td>
+</tr>
+<tr>
+<td> Flaked Wheat          </td>
+<td> 8oz    </td>
+<td> 3.5%        </td>
+</tr>
+</tbody>
+</table>
 
-<p><em>Hop schedule:</em></p>
 
-<p>60m: 1 oz Hallertau &amp; 1oz Saaz<br>
-2m: 5 0z Hallertau &amp; 1 oz Saaz</p>
+<p><em>Hop schedule</em></p>
 
-<p><em>Other:</em></p>
+<table>
+<thead>
+<tr>
+<th> Variety   </th>
+<th> Time   </th>
+<th> Amount </th>
+<th> Form       </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Hallertau </td>
+<td> 60m    </td>
+<td> 1oz    </td>
+<td> Whole hops </td>
+</tr>
+<tr>
+<td> Saaz      </td>
+<td> 60m    </td>
+<td> 1oz    </td>
+<td> Whole hops </td>
+</tr>
+<tr>
+<td> Hallertau </td>
+<td> 2m     </td>
+<td> 1oz    </td>
+<td> Whole hops </td>
+</tr>
+<tr>
+<td> Saaz      </td>
+<td> 2m     </td>
+<td> 1oz    </td>
+<td> Whole hops </td>
+</tr>
+</tbody>
+</table>
 
-<p>Whirfloc tablet at 15 minutes left of the boil<br>
-2 lb <a href="http://www.candisyrup.com/">Golden Candi Syrup</a></p>
 
-<p>WLP510 - Bastogne Ale Yeast</p>
+<p><em>Other</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                                             </th>
+<th> Amount   </th>
+<th> Use              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Whirlfloc                                        </td>
+<td> 1 tablet </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> <a href="http://www.candisyrup.com/">Golden Candi Syrup</a> </td>
+<td> 2 lb     </td>
+<td> 10m left in boil </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Yeast</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                       </th>
+<th> Lab         </th>
+<th> Attenuation </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> WLP510 Bastogne Ale Yeast  </td>
+<td> White Labs  </td>
+<td> 74 - 80%    </td>
+</tr>
+</tbody>
+</table>
+
 
 <p>Mash at 151F for 90 minutes.
 Boil for 90 minutes to reduce chance of DMS.</p>
