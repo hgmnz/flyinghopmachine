@@ -13,6 +13,8 @@ months to let it peak, which means it's time to brew it now. I plan on transferi
 this beer to secondary or a keg in about three weeks and let it mature there until
 late November.
 
+<!--more-->
+
 Providing a nice Bourbon Barrel character is easy at a homebrew scale. Just soak some
 oak cubes in your favorite burbon for a few days, the oaks absorb the liquor like sponges.
 Then place them in a hop bag and add them to the beer. This has worked for me
