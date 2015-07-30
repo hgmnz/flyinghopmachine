@@ -36,6 +36,8 @@ The recipe is the following:
 | ---------- | --------- | ----- | ----- | ----- | --- |
 | 6g         | 60m       | 47    | 1.085 | ?     | ?   |
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/19995083432/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/298/19995083432_7c89e32491_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 *Water*
 
 For this beer, I simply used tap water from my area which has a very high
@@ -79,11 +81,15 @@ Create a big starter with lots of yeast!
 | WLP007 Dry English Ale | White Labs  | 70 - 80%    | 2 vials |
 | WLP002 English Ale     | White Labs  | 63 - 70%    | 1 vial  |
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/19989401981/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/294/19989401981_4f8febf939_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Brew notes
 
 #### July 25, 2015
 
 I collected 11 gallons of tap water, crushed a campden tablet and added it to the water. Ensured it dissolved completely. I transfered 6 and 1/4 gallons to my HLT and heated it up to 165F. Doughed in and mash started with a temperature of 151F.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20002837585/in/album-72157655784368350/" title="Untitled"><img src="https://farm4.staticflickr.com/3676/20002837585_566b7ec8b5_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Slowly sparged with the rest of the water. Sparge took a full hour.
 
