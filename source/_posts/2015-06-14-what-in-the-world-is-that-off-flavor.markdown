@@ -29,13 +29,13 @@ appeared in my beers: Use a yeast starter, wort aeration with an aquarium pump
 and diffusion stone, and using yeast nutrients. These changes were correcting
 high-gravity beers which were coming out under-attenuated.
 
-{% img left http://i.imgur.com/E0UKSu9.jpg %}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20051861391/in/datetaken/" title="Untitled"><img src="https://farm1.staticflickr.com/335/20051861391_b81d51fc13_c.jpg" width="600" height="800" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I first noticed the flavor on the Saison and the Smoked Porter, both of which I
 brewed close enough to each other that I didn't know they both had this
 issue as they were fermenting.
 
-{% img right http://i.imgur.com/wFAKifQ.jpg %}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20050655986/in/datetaken/" title="Untitled"><img src="https://farm1.staticflickr.com/458/20050655986_8c2b1e36cd_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I brewed the Rye IPA pretty much the day I found out about the off-flavor as
 I racked them to kegs, and so I didn't really change anything about my
@@ -72,7 +72,7 @@ around and pitched some dry yeast. The entire purpose was not to make great
 beer, but rather to see if the chiller, hoses or inline thermometer had
 anything to do with it. It produced drinkable beer nevertheless.
 
-{% img left http://i.imgur.com/4wo9ZYX.jpg %}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20020435262/in/datetaken/" title="Untitled"><img src="https://farm1.staticflickr.com/376/20020435262_23bc04f4b6_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Next up, I kegged my Rye IPA, and I was surprised and relieved that it didn't
 have the off-flavor too. This was one of those beers that went fast because it
@@ -126,7 +126,7 @@ and the key lies within the yeast starter. I was just using tap water with no
 filtration or treatment to brew my starters. Even though we're just talking
 less than a couple of liters of water, this seams to fit the bill.
 
-{% img left http://i.imgur.com/ZPqiswr.jpg %}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20082280231/in/datetaken/" title="Untitled"><img src="https://farm1.staticflickr.com/509/20082280231_bbc6bbbac9_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I've since switched to using RO or carbon-filtered water for my starters, and
 haven't had a problem again, even after brewing the same recipes pressumably
