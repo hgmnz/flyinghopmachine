@@ -15,16 +15,16 @@ late November.
 
 <!--more-->
 
-Providing a nice Bourbon Barrel character is easy at a homebrew scale. Just soak some
-oak cubes in your favorite burbon for a few days, the oaks absorb the liquor like sponges.
-Then place them in a hop bag and add them to the beer. This has worked for me
-before, but there's no reason adding plain oaks to the beer and blending the
-spirit directly wouldn't work as well. Soaking them in bourbon first is
-convenient however, as it helps sanitize the oak cubes and so it's not
-necessary to boil them before use.
+Providing a nice Bourbon Barrel character is easy at a homebrew scale. Just
+soak some oak cubes in your favorite burbon for a few days, the oaks absorb the
+liquor like sponges.  Then place them in a hop bag and add them to the beer.
+This has worked for me before, but there's no reason adding plain oaks to the
+beer and blending the spirit directly wouldn't work as well. Soaking them in
+bourbon first is convenient however, as it helps sanitize the oak cubes and so
+it's not necessary to boil them before use.
 
 For this beer I'm looking for something bold, with lots of the characteristic
-stout roasted malt character, smokey and coffe notes, not too sweet, full
+stout roasted malt character, smokey and coffee notes, not too sweet, full
 bodied and lots of alcohol. I wanted the base malt to have some character to
 it, and considered Maris Otter or other british malts. I also wanted to include
 some rye to go with the bourbon theme, so ended up adding some flaked rye, which
