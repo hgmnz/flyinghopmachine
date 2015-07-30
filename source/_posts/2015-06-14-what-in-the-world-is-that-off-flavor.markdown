@@ -135,8 +135,7 @@ containing the same phenol production.
 ## Lessons and Conclusions
 
 * Do not mess with Chlorine. I still trust campden tablets, but carbon
-  filtration, reverse osmosis, distillation, and boiling treatments are also
-  effective.
+  filtration, reverse osmosis and distillation are also effective.
 * Beware of your yeast starter water! It can ruin a batch or three.
 * Good cleaning and sanitation practices are crucial. I always thought I did a
   good job at this, but in the face of this issue I wasn't *sure* - there was
