@@ -139,6 +139,8 @@ Built a started with one vial of WLP029 and yeast nutrients.
 pH dropped to 3.3 and temperature to 80F. It's definitely time to stop
 lactobacillus activity, which I did by boiling the wort.
 
+Wort tasted nice and sour, but very clean. Getting pumped!
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20183503406/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5617/20183503406_8bfd689c58_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I crushed the coriander seeds by placing them in a bag and using a kitchen
@@ -164,3 +166,6 @@ SG reading was 1.023, so this lacto did attenuate the wort a bit.
   that. Next time, a 15 minute wort with the remaining ingredients might be
   enough.
 * I'll add "test pH meter" to my pre-brewing flight check.
+
+*This is all new to me: how else can I improve this process? Please let me know
+in the comments!*
