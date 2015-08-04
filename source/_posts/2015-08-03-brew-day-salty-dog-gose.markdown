@@ -70,6 +70,8 @@ to measure these on my next Gose.
 
 Three fresh chinook hops from your garden in the mash (optional) :)
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20163262111/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/492/20163262111_daba90c00b_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 *Other*
 
 | Name                                             | Amount       | Use              |
@@ -78,6 +80,8 @@ Three fresh chinook hops from your garden in the mash (optional) :)
 | Yeast Nutrient                                   | 1/4 teaspoon | 15m left in boil |
 | Crushed Coriander                                | 1 oz         | 15m left in boil |
 | Maldon Sea Salt Flakes                           | 14 grams     | 15m left in boil |
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20200975175/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/451/20200975175_9d6b52857e_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 *Yeast*
 
@@ -95,6 +99,8 @@ liters. After pitching the package, the Erlenmeyer flask filled pretty much to
 the top, which was the goal as to avoid any oxygen between the wort and the
 bung. Placed an airlock and sealed it by wrapping around with cling wrap.
 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/19969590068/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/383/19969590068_2a0f76a697_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 #### July 30, 2015
 
 Mashed in at 148F. Added calcium chloride and gypsum additions. Sparged and
@@ -106,6 +112,8 @@ during wort souring to aid in maintaining an appropriate temperature.
 Chilled wort using plate chiller straight into cooler, targeting 99-100F. It
 wasn't easy to get this temperature, but by controlling the flow of water it
 got it down.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20014356589/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/281/20014356589_b37e6beb75_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 SG reading was 1.035.
 
@@ -126,6 +134,8 @@ Built a started with one vial of WLP029 and yeast nutrients.
 
 pH dropped to 3.3 and temperature to 80F. It's definitely time to stop
 lactobacillus activity, which I did by boiling the wort.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20183503406/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5617/20183503406_8bfd689c58_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I crushed the coriander seeds by placing them in a bag and using a kitchen
 roller.
