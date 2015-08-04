@@ -32,7 +32,7 @@ sour.
 A characteristic of Goses is that they do not have any IBUs. I didn't add any
 hops at all, except for a few in the mash just for fun. But it's notable that
 in general hops will inhibit lactobacillus activity, again, depending on
-strain, so generally these beers have very little hops if at all.
+species, so generally these beers have very little hops if at all.
 
 For this time around, I am trying to go as simple as possible to get a feel for
 the process. I did some research on the style, and ended up with the following
