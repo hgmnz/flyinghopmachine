@@ -40,7 +40,7 @@ recipe:
 
 | Batch Size |  IBU   | OG    | FG    | ABV |
 | ---------- |  ----- | ----- | ----- | --- |
-| 6g         |  0     | 1.030 | ?     | ?   |
+| 6g         |  0     | 1.048 | ?     | ?   |
 
 *Water*
 
@@ -116,7 +116,7 @@ got it down.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20014356589/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/281/20014356589_b37e6beb75_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-SG reading was 1.035.
+SG reading was 1.048.
 
 Pitched entire lactobacillus starter into wort. After pitching, temperature was
 98F.
