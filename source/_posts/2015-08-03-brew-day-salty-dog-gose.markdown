@@ -126,7 +126,10 @@ don't have equipment to do yet.
 
 #### July 30, 2015
 
-20 hours later, pH dropped to 3.5 and temperature dropped to 87F.
+20 hours later, pH dropped to 3.5 and temperature dropped to 87F. I know it's
+called "Fast Souring Lacto" but this seems *very* fast! Probably also due to
+the fact that RO water was used, and I didn't add any bicarbonates, so
+alkalinity on this water is definitely low.
 
 Built a started with one vial of WLP029 and yeast nutrients.
 
