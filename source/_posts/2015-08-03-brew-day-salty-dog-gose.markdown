@@ -151,9 +151,10 @@ SG reading was 1.023, so this lacto did attenuate the wort a bit.
 
 ## What I'd do differently
 
-* For the lactobacillus starter, there are experiments which show using a bit of
-  apple juice yield a more appropriate environment for lacto. Further, I'll add
-  some yeast nutrients which I didn't do this time.
+* For the lactobacillus starter, there are
+  [experiments](http://www.milkthefunk.com/wiki/Lactobacillus#Starters_and_Pitching_Rate)
+  which show using a bit of apple juice yield a more appropriate environment for
+  lacto. Further, I'll add some yeast nutrients which I didn't do this time.
 * I'd do more research on appropriate water profile, although it seems to me
   chloride and sulfate won't play a big role in a sour beer like this. I might
   consider simply using acidulated malt and phophoric acid to tune in on an
