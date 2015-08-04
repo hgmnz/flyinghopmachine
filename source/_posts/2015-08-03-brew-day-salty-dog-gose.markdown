@@ -61,7 +61,7 @@ to measure these on my next Gose.
 | Name                    | Amount    | Percent     |
 | ---------------------   | ------    | ----------- |
 | Weyermann Wheat Malt    | 5 lb      | 47.6 %      |
-| Weyermann Pilsener Malt | 5 lb 8 oz | 42.9 %      |
+| Weyermann Pilsener Malt | 4 lb 8 oz | 42.9 %      |
 | Melanoidin Malt         | 4 oz      | 2.4 %       |
 | Acidulated Malt         | 4 oz      | 2.4 %       |
 | Rice Hulls              | 8 oz      | 4.8 %       |
