@@ -95,9 +95,10 @@ Three fresh chinook hops from your garden in the mash (optional) :)
 #### July 26, 2015
 
 Built a starter inoculate with the lactobacillus package. I made it 2 full
-liters. After pitching the package, the Erlenmeyer flask filled pretty much to
-the top, which was the goal as to avoid any oxygen between the wort and the
-bung. Placed an airlock and sealed it by wrapping around with cling wrap.
+liters. Chilled it to 95F. After pitching the package, the Erlenmeyer flask
+filled pretty much to the top, which was the goal as to avoid any oxygen
+between the wort and the bung. Placed an airlock and sealed it by wrapping
+around with cling wrap.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/19969590068/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/383/19969590068_2a0f76a697_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
