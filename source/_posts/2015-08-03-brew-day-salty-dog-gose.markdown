@@ -6,7 +6,7 @@ comments: true
 categories: [brewday, recipe, sour, lactobacillus]
 ---
 
-I have been itching to bring in some criters into my brewery that weren't
+I have been itching to bring in some critters into my brewery that weren't
 saccharomyces for a little while. I've been making a bit of research and
 finally decided to jump right in. I think a Gose (or a Berliner Weisse for that
 matter) are a great way to start this journey, because it does not require long
@@ -15,11 +15,11 @@ brewery equipment with bacteria.
 
 <!--more-->
 
-For this beer, I did what's called Sour Wort. The process is fairly
-straightforward. It involves mashing as you usually would, chilling wort to a
-range appropriate for your lactobacillus cultures, pitching lactobacillus, and
-holding the temperature for a few days. Then, you may or may not boil this
-wort, chill again as usual and pitch saccharomyces.
+For this beer, I did what's called Kettle Souring or Sour Wort (?). The process
+is fairly straightforward. It involves mashing as you usually would, chilling
+wort to a range appropriate for your lactobacillus cultures, pitching
+lactobacillus, and holding the temperature for a few days. Then, you may or may
+not boil this wort, chill again as usual and pitch saccharomyces.
 
 Lactobacillus eats up sugars and produce lactic acid which in turn lowers the
 solution's pH. When souring wort, having a pH meter is important as it will
@@ -91,22 +91,23 @@ Three fresh chinook hops from your garden in the mash (optional) :)
 #### July 26, 2015
 
 Built a starter inoculate with the lactobacillus package. I made it 2 full
-liters. After pitching the package, the erlenmeyer flask filled pretty much to
+liters. After pitching the package, the Erlenmeyer flask filled pretty much to
 the top, which was the goal as to avoid any oxygen between the wort and the
-bung. Placed an airlock and seeled it by wrapping around with cling wrap.
+bung. Placed an airlock and sealed it by wrapping around with cling wrap.
 
 #### July 30, 2015
 
-Mashed in at 148F. Added calcium chloride and gypsum additions. Sparged and boiled for 15 minutes to help volatalize DMS from the pilsener malt.
+Mashed in at 148F. Added calcium chloride and gypsum additions. Sparged and
+boiled for 15 minutes to help volatalize DMS from the pilsener malt.
 
-During the boil, I quickly cleaned up my platic cooler/mash tun to be used
+During the boil, I quickly cleaned up my plastic cooler/mash tun to be used
 during wort souring to aid in maintaining an appropriate temperature.
 
-Chilled wort using plate chiller straight into cooler, targetting 99-100F. It
+Chilled wort using plate chiller straight into cooler, targeting 99-100F. It
 wasn't easy to get this temperature, but by controlling the flow of water it
 got it down.
 
-SG reading was 1.050.
+SG reading was 1.035.
 
 Pitched entire lactobacillus starter into wort. After pitching, temperature was
 98F.
@@ -133,7 +134,7 @@ During the boil I added a Whirfloc tablet, yeast nutrients, coriander and salt
 
 After boiling it, chilled as usual, aerated, and pitched WLP029 starter.
 
-SG reading was 1.023.
+SG reading was 1.023, so this lacto did attenuate the wort a bit.
 
 ## What I'd do differently
 
@@ -144,4 +145,7 @@ SG reading was 1.023.
   chloride and sulfate won't play a big role in a sour beer like this. I might
   consider simply using acidulated malt and phophoric acid to tune in on an
   appropriate mash pH.
-* I boiled for a full 60 minutes, but I don't see any reason to having done that. Next time, a 15 minute wort with 
+* I boiled for a full 60 minutes, but I don't see any reason to having done
+  that. Next time, a 15 minute wort with the remaining ingredients might be
+  enough.
+* I'll add "test pH meter" to my pre-brewing flight check.
