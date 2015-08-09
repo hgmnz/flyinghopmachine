@@ -42,7 +42,7 @@ meter needs calibration, or it's flat out broken, the HLT was dirty from a
 prior sanitizer solution, or well, this is just some really weird RO water.
 
 I proceeded to recalibrate my pH meter. It was already pretty much spot on as
-it read the 4.01 and 7.1 buffering solutions from last week's calibration, but
+it read the 4.01 and 7.01 buffering solutions from last week's calibration, but
 I thought it'd be good to just recalibrate.
 
 I measured again, same number.
