@@ -28,11 +28,14 @@ liquor.
 
 Today, I stuck my pH meter in my liquor tank before heating up the water to get
 a baseline, and my meter showed an RO water pH of **5.6**. While strike water
-pH has little to do with actual mash pH, a higher pH is required. The grains in
-the mash lower the pH of the mash, so if we're targetting somewhere in the 5.2
-to 5.4 range for a recipe, and the starting water pH is 5.6, and with roughly
-zero alkalinity to boot, I'd expect the mash pH to dive way under the 5.0 mark,
-and now we're inhibiting enzyme activity. No good.
+pH has little to do with actual mash pH, a higher pH is definitely required.
+The phosphates in the grain react with the water in the mash and lower the pH
+reaching a bit of an equilibrium point, so if we're targetting somewhere in
+the 5.2 to 5.4 range for a recipe, and the starting water pH is 5.6, and with
+roughly zero alkalinity to boot, I'd expect the mash pH to dive way under the
+5.0 mark.  This would mean that not only is the final beer pH going to be way
+too low for style, but also now we're inhibiting enzyme activity and impairing
+conversion.  No good.
 
 Of course, my first reaction is that I'm doing something wrong. Either my pH
 meter needs calibration, or it's flat out broken, the HLT was dirty from a
@@ -65,7 +68,9 @@ with this water. I could:
 
 * Add Baking Soda, Bicarbonate (HCO<sub>3</sub><sup>-1</sup>) or Calcium
   Carbonate (CaCO<sub>3</sub>). This would have the effect of increasing
-  alkalinity and pH of the water.
+  alkalinity and pH of the water to an appropriate range for my mash, but at
+  the quantities required might also have an effect on flavor that I'd like to
+  avoid.
 * Dump the RO water and go straight to my local tap water. My local tap water
   has a huge amount of bicarbonates, which makes it suitable for brewing dark
   beers such as stouts, and that's what I usually do. But for a pale beer, I'd
