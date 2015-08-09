@@ -86,7 +86,7 @@ into the mix, so I added a campden tablet to remove it. This brought in some
 amount of bicarbonates into my brewing liquor, and I adjusted further with
 calcium chloride and a bit of gypsum.
 
-At the end, the mash pH in the target range at 5.4.
+At the end, the mash pH got right on the target range at 5.4.
 
 But now you know, don't take anything from granted. Create a habit of checking
 your process along the way, and adjust as necessary. It's the best way to make
