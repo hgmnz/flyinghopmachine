@@ -35,7 +35,7 @@ brews past, and is a high producer of complext esters and subdued phenols.
 When fermenting with saccharomyces followed by brettanomyces and
 other lactic acid bacteria (lactobacillus and pediococcus), I'm looking for
 long chains to be available after primary. I change the recipe in two ways to
-accomplish this. First, I targetted alpha-amelyse enzymes in the mash by
+accomplish this. First, I targetted alpha-amylase enzymes in the mash by
 mashing at 155F. This will produce less fermentable wort for the saccharomyces
 strain, leaving behind those long chain starches for brettanomyces to chew on.
 Further, I steeped some flaked wheat in the boil to also provide some
@@ -112,6 +112,8 @@ remove chlorine, and added 3/4 tsp Calcium Chloride plus 1/2 tsp of gypsum.
 Mash pH was 5.4.
 
 Sparge took about one hour.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/19821700903/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/361/19821700903_573f29a00f_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I didn't treat sparge water, and instead used the left-over RO water directly.
 Given it's low pH there was no need for adjustment.
