@@ -4,7 +4,7 @@
   <title><![CDATA[Flying Hop Machine]]></title>
   <link href="http://www.flyinghopmachine.com/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
-  <updated>2015-08-09T13:08:44-07:00</updated>
+  <updated>2015-08-09T17:39:12-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -12,6 +12,227 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brew Day: Funk You Blonde Ale]]></title>
+    <link href="http://www.flyinghopmachine.com/blog/2015/08/09/brew-day-funk-you-blonde-ale/"/>
+    <updated>2015-08-09T16:23:30-07:00</updated>
+    <id>http://www.flyinghopmachine.com/blog/2015/08/09/brew-day-funk-you-blonde-ale</id>
+    <content type="html"><![CDATA[<p>I&rsquo;m diving in with some sour, funky beer. For this beer I want to go for
+a funky, sour, fruity and modestly high ABV beer.</p>
+
+<!--more-->
+
+
+<p>I&rsquo;ve been doing a lot of research as I enter the world of wild and mixed
+fermentations. I decided it&rsquo;s time to dive right in with what I hope is a
+nicely soured and funky character beer. This is an investment in time, and I
+plan on adding fruit down the road; potentially some raspberries to give this
+otherwise blonde brew a nice pink color.</p>
+
+<p>I based this recipe largely on my recent <a href="blog/2015/06/21/brew-day-daddys-belgian-blonde-ale/">Blonde
+Ale</a> beer, which turned
+out fantastic, with enough of a malt and grainy aroma and body that I think
+will work great with some Brett. I did make some changes to the base beer based
+on my research, however.</p>
+
+<p>I aim to embrace the funk on this one. Based on my research that means doing a
+primary fermentation with saccharomyces, followed by inoculation with other
+yeasts and bacteria to eat up both what saccharomyces couldn&rsquo;t consume, but
+also what it produced. Brettanomyces feats on long-chain starches as well as
+phenols produced by saccharomyces, so I chose a brewer&rsquo;s yeast strain that
+wasn&rsquo;t very neutral. Quite the opposite, I reached for my go-to belgian yeast
+strain: WLP510 - Bastogne Belgian Ale, which has worked great for me on many
+brews past, and is a high producer of complext esters and subdued phenols.</p>
+
+<p>When fermenting with saccharomyces followed by brettanomyces and
+other lactic acid bacteria (lactobacillus and pediococcus), I&rsquo;m looking for
+long chains to be available after primary. I change the recipe in two ways to
+accomplish this. First, I targetted alpha-amelyse enzymes in the mash by
+mashing at 155F. This will produce less fermentable wort for the saccharomyces
+strain, leaving behind those long chain starches for brettanomyces to chew on.
+Further, I steeped some flaked wheat in the boil to also provide some
+long-chain carbohydrates to be consumed by the brettanomyces and pediococcus
+bacteria when pitched in secondary.</p>
+
+<p>The other consideration when brewing a sour beer is the fact that lactobacillus
+is inhibited by hops. It seems to be preferable to keep IBU contributions to
+under 10. For this reason, I modified the hop schedule from the <a href="blog/2015/06/21/brew-day-daddys-belgian-blonde-ale/">Blonde
+Ale</a> by moving most of the
+bittering hop additions to more of the flavor and aroma range, under 5 minutes
+left of the boil.</p>
+
+<p>I still have some time to plan out the brettanomyces/lactobacillus/pediococcus
+mix I will be pitching on this beer during secondary fermentation and aging.
+It&rsquo;d be awesome might find some nice bottle dregs from Russin River and The
+Rare Barrel and pitch those as well!</p>
+
+<p>The result should be a very pale wort, with less than 10 IBUs, and long starch
+chains for the bugs to feast on. This will be a long experiment, so we won&rsquo;t
+really know how it worked out until a year from now!</p>
+
+<p>The recipe ended up as follows:</p>
+
+<table>
+<thead>
+<tr>
+<th> Batch Size </th>
+<th>  IBU   </th>
+<th> OG    </th>
+<th> FG    </th>
+<th> ABV </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 6g         </td>
+<td>  7.5   </td>
+<td> 1.070 </td>
+<td> ?     </td>
+<td> ?   </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Water</em></p>
+
+<p>I would have targetted my water profile just as I did for my <a href="blog/2015/06/21/brew-day-daddys-belgian-blonde-ale/">Blonde
+Ale</a>, however I
+encountered some issues that forced me to improvise, which you can read all
+about <a href="blog/2015/08/09/dont-trust-your-ro-water/">here</a>. However, given proper
+RO water, the approach taken before for a similar grist worked well, so here it
+is:</p>
+
+<p>Start with RO water. Treat strike water with:</p>
+
+<table>
+<thead>
+<tr>
+<th> Name             </th>
+<th> Amount  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Calcium Chloride </td>
+<td> 1 tsp   </td>
+</tr>
+<tr>
+<td> Gypsum           </td>
+<td> &frac34; tsp </td>
+</tr>
+<tr>
+<td> Phosphoric Acid  </td>
+<td> 0.5ml   </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Fermentables</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                                             </th>
+<th> Amount </th>
+<th> Percent     </th>
+<th> Use          </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Belgian Pilsen Malt                              </td>
+<td> 13lb   </td>
+<td> 75.9%       </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> Aromatic Malt                                    </td>
+<td> 10oz   </td>
+<td> 3.6%        </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> Wheat Malt                                       </td>
+<td> 8oz    </td>
+<td> 2.9%        </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> Flaked Wheat                                     </td>
+<td> 8oz    </td>
+<td> 2.9%        </td>
+<td> Boil/Steeped </td>
+</tr>
+<tr>
+<td> <a href="http://www.candisyrup.com/">Golden Candi Syrup</a> </td>
+<td> 2 lb   </td>
+<td> 11.7%       </td>
+<td> End of Boil  </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Yeast</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                       </th>
+<th> Lab         </th>
+<th> Attenuation </th>
+<th> Amount                        </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> WLP510 Bastogne Ale Yeast  </td>
+<td> White Labs  </td>
+<td> 74 - 80%    </td>
+<td> 1.8 liter starter with 1 vial </td>
+</tr>
+<tr>
+<td> Brett/Lacto/Pedio blend    </td>
+<td> TBD         </td>
+<td> ?           </td>
+<td> ?                             </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Mash at 155F</p>
+
+<h2>Brew notes</h2>
+
+<h4>August 8, 2015</h4>
+
+<p>While preparing strike water encountered a <a href="blog/2015/08/09/dont-trust-your-ro-water/">nasty
+issue</a> which I had to troubleshoot
+for. Ended up blending RO water with tap water, adding a campdem tablet to
+remove chlorine, and added &frac34; tsp Calcium Chloride plus &frac12; tsp of gypsum.</p>
+
+<p>Mash pH was 5.4.</p>
+
+<p>Sparge took about one hour.</p>
+
+<p>I didn&rsquo;t treat sparge water, and instead used the left-over RO water directly.
+Given it&rsquo;s low pH there was no need for adjustment.</p>
+
+<p>Fired up the kettle, and 12 minutes later got the hot break. Started the 60 minute boil at this point with the first hop addition.</p>
+
+<p>Added the rest of ingredients to the boil per the recipe.</p>
+
+<p>Chilled wort, aerated for roughly 40 minutes.</p>
+
+<p>Pitched starter and set to ferment.</p>
+
+<p>OG was 1.075</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Don't Trust Your RO Water!]]></title>
