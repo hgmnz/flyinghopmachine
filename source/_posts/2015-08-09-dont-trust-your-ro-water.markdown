@@ -63,7 +63,7 @@ system that removes minerals and nasty chlorine/chloramines from the water, so
 how would that lower the pH this way? I don't know, but the store might be
 hearing from me soon.
 
-I digress though. It's now time to trobleshoot. I have a few options to work
+I digress though. It's now time to troubleshoot. I have a few options to work
 with this water. I could:
 
 * Add Baking Soda, Bicarbonate (HCO<sub>3</sub><sup>-1</sup>) or Calcium
