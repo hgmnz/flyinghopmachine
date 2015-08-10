@@ -6,7 +6,7 @@ comments: true
 categories: [brewday, recipe, sour, lactobacillus, pediococcus, brettanomyces]
 ---
 
-I'm diving in with some sour, funky beer. For this beer I want to go for
+I'm diving in with mixed fermentation. For this beer I want to go for
 a funky, sour, fruity and modestly high ABV beer.
 
 <!--more-->
