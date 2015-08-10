@@ -14,33 +14,33 @@ a funky, sour, fruity and modestly high ABV beer.
 I've been doing a lot of research as I enter the world of wild and mixed
 fermentations. I decided it's time to dive right in with what I hope is a
 nicely soured and funky character beer. This is an investment in time, and I
-plan on adding fruit down the road; potentially some raspberries to give this
-otherwise blonde brew a nice pink color.
+plan on adding fruit down the road; potentially some raspberries or plums to
+give this otherwise blonde brew a nice pink color.
 
 I based this recipe largely on my recent [Blonde
 Ale](blog/2015/06/21/brew-day-daddys-belgian-blonde-ale/) beer, which turned
 out fantastic, with enough of a malt and grainy aroma and body that I think
-will work great with some Brett. I did make some changes to the base beer based
-on my research, however.
+will work great with some funky brett characters. I did make some changes to
+the base beer based on my research, however.
 
-I aim to embrace the funk on this one. Based on my research that means doing a
-primary fermentation with saccharomyces, followed by inoculation with other
-yeasts and bacteria to eat up both what saccharomyces couldn't consume, but
-also what it produced. Brettanomyces feats on long-chain starches as well as
-phenols produced by saccharomyces, so I chose a brewer's yeast strain that
-wasn't very neutral. Quite the opposite, I reached for my go-to belgian yeast
-strain: WLP510 - Bastogne Belgian Ale, which has worked great for me on many
-brews past, and is a high producer of complext esters and subdued phenols.
+I aim to embrace the funk on this one. That means doing a primary fermentation
+with saccharomyces, followed by inoculation with other yeasts and bacteria to
+eat up both what saccharomyces couldn't consume, but also what it produced.
+Brettanomyces feats on long-chain starches as well as phenols produced by
+saccharomyces, so I chose a brewer's yeast strain that wasn't very neutral.
+Quite the opposite, I reached for my go-to belgian yeast strain: WLP510 -
+Bastogne Belgian Ale, which has worked great for me on many brews past, and is
+a high producer of complext esters and subdued phenols.
 
-When fermenting with saccharomyces followed by brettanomyces and
-other lactic acid bacteria (lactobacillus and pediococcus), I'm looking for
-long chains to be available after primary. I change the recipe in two ways to
-accomplish this. First, I targetted alpha-amylase enzymes in the mash by
-mashing at 155F. This will produce less fermentable wort for the saccharomyces
-strain, leaving behind those long chain starches for brettanomyces to chew on.
-Further, I steeped some flaked wheat in the boil to also provide some
-long-chain carbohydrates to be consumed by the brettanomyces and pediococcus
-bacteria when pitched in secondary.
+When fermenting with saccharomyces followed by brettanomyces and other lactic
+acid bacteria (lactobacillus and pediococcus), I'm looking for long chain
+complex carbohydrates to be available after primary fermentation completes. I
+changed the recipe in two ways to encourage this. First, I targetted
+alpha-amylase enzymes in the mash by mashing at 155F. This will produce less
+fermentable wort for the saccharomyces strain, leaving behind those long chain
+starches for brettanomyces to chew on.  Further, I steeped some flaked wheat in
+the boil to also impart starches to be consumed by pediococcus when pitched in
+secondary.
 
 The other consideration when brewing a sour beer is the fact that lactobacillus
 is inhibited by hops. It seems to be preferable to keep IBU contributions to
@@ -50,13 +50,14 @@ bittering hop additions to more of the flavor and aroma range, under 5 minutes
 left of the boil.
 
 I still have some time to plan out the brettanomyces/lactobacillus/pediococcus
-mix I will be pitching on this beer during secondary fermentation and aging.
-It'd be awesome might find some nice bottle dregs from Russin River and The
-Rare Barrel and pitch those as well!
+belnd I will be pitching on this beer during secondary fermentation and aging.
+I'm close enough to both [Russin River](http://russianriverbrewing.com/) and
+[The Rare Barrel](https://www.therarebarrel.com/), so I might pick up a few
+bottles and pitch some dregs as well!
 
 The result should be a very pale wort, with less than 10 IBUs, and long starch
 chains for the bugs to feast on. This will be a long experiment, so we won't
-really know how it worked out until a year from now!
+really know how it worked out until about year from now.
 
 The recipe ended up as follows:
 
