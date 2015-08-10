@@ -62,7 +62,7 @@ The recipe ended up as follows:
 
 | Batch Size |  IBU   | OG    | FG    | ABV |
 | ---------- |  ----- | ----- | ----- | --- |
-| 6g         |  7.5   | 1.070 | ?     | ?   |
+| 6g         |  7.5   | 1.075 | ?     | ?   |
 
 *Water*
 
