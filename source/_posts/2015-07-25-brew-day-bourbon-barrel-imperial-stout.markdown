@@ -104,3 +104,11 @@ Measured OG was 1.085.
 Pitched the starter. Set up a blowoff tube right away, I expect aggressive fermentation.
 
 This fermentation started *fast*. It had a lag time of just three hours.
+
+#### August 8, 2015
+
+Racked to secondary.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/19819962424/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/405/19819962424_4e9292feb4_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Gravity reading was 1.019.
