@@ -4,7 +4,7 @@
   <title><![CDATA[Category: brewday | Flying Hop Machine]]></title>
   <link href="http://www.flyinghopmachine.com/blog/categories/brewday/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
-  <updated>2015-09-19T10:55:23-07:00</updated>
+  <updated>2015-09-19T12:56:49-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -12,6 +12,250 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brew Day: Smoker in the Rye Porter]]></title>
+    <link href="http://www.flyinghopmachine.com/blog/2015/09/05/brew-day-smoker-in-the-rye-porter/"/>
+    <updated>2015-09-05T10:56:57-07:00</updated>
+    <id>http://www.flyinghopmachine.com/blog/2015/09/05/brew-day-smoker-in-the-rye-porter</id>
+    <content type="html"><![CDATA[<p>You know what goes well with Rye? Smoke. For this robust porter, I&rsquo;m looking
+for a balance of rye spice, some smoke, along with the dry bitter, coffee,
+chocolate notes found in dark and roasted malts.</p>
+
+<!--more-->
+
+
+<p>For this beer, I used tap water given it is very high in carbonates and plays
+well with dark beers. I did end up lowering its pH to 6.0 per the notes below.</p>
+
+<p>The backbone of this brew is Crisp Best Ale, a British pale malt which is not
+as neutral as american or canadian 2-row, providing a distinctive malty and
+sweet foundation.</p>
+
+<p>For rye, I used Briess Rye Malt as well as a bit of Weyermann Chocolate Rye
+Malt.</p>
+
+<p>For smoke, I chose two different smoked malts. First Weyermann Smoked Malt, a
+beechwood smoked malt traditionally used in Rauchbier, along with Briess
+Cherrywood Smoked Malt, which provides a much more pronounced smoke character
+and is therefore used Sparingly.</p>
+
+<p>Finally, a dash of Carafa III helps get the target color and a bit of more
+roast character expected in a porter.</p>
+
+<p><em>Fermentables</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                          </th>
+<th> Amount </th>
+<th> Percent     </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Crisp Best Ale                </td>
+<td> 6 lb   </td>
+<td> 43.2 %      </td>
+</tr>
+<tr>
+<td> Weyermann Smoked Malt         </td>
+<td> 3 lb   </td>
+<td> 21.6 %      </td>
+</tr>
+<tr>
+<td> Briess Cherrywood Smoked Malt </td>
+<td> 1 lb   </td>
+<td> 7.2 %       </td>
+</tr>
+<tr>
+<td> Briess Rye Malt               </td>
+<td> 3 lb   </td>
+<td> 21.6 %      </td>
+</tr>
+<tr>
+<td> Weyermann Chocolate Rye Malt  </td>
+<td> 10 oz  </td>
+<td> 4.5 %       </td>
+</tr>
+<tr>
+<td> Weyermann Carafa III          </td>
+<td> 4 oz   </td>
+<td> 1.8 %       </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>For this beer, I&rsquo;ll keep hops very classical and let them play a supportive
+role. The grain bill will be layered with complexity while not allowing
+individual flavors to overpower the grist.</p>
+
+<p><em>Hop Schedule</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Variety           </th>
+<th> Time   </th>
+<th> Amount </th>
+<th> Form       </th>
+<th> Alpha Acids </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> East Kent Goldins </td>
+<td> 60m    </td>
+<td> 2oz    </td>
+<td> Whole Hops </td>
+<td> 6.3%        </td>
+</tr>
+<tr>
+<td> Challenger        </td>
+<td> 25m    </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+<td> 5.7%        </td>
+</tr>
+<tr>
+<td> Fuggle            </td>
+<td> 5m     </td>
+<td> 2oz    </td>
+<td> Whole Hops </td>
+<td> 5.2%        </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Other</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                                             </th>
+<th> Amount   </th>
+<th> Use              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Whirlfloc                                        </td>
+<td> 1 tablet </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> Yeast Nutrients                                  </td>
+<td> &frac14; tsp  </td>
+<td> 15m left in boil </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Yeast</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                         </th>
+<th> Lab         </th>
+<th> Attenuation </th>
+<th> Quantity                   </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> WLP007 Dry English Ale Yeast </td>
+<td> White Labs  </td>
+<td> 70 - 80%    </td>
+<td> 1.8l starter with one vial </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Mash at 154F for 60m.</p>
+
+<h2>Brew notes</h2>
+
+<h4>September 05, 2015</h4>
+
+<p>Started by treating brewing liquor to get pH down to 6.0. Initial water pH was
+7.9, and I added 3ml - 6ml of phosphoric acid at a time to get to 6.0. Full
+procedure was as follows:</p>
+
+<table>
+<thead>
+<tr>
+<th> Amount of Phosphoric Acid Added </th>
+<th> pH  </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 3ml                             </td>
+<td> 7.2 </td>
+</tr>
+<tr>
+<td> 3ml                             </td>
+<td> 6.9 </td>
+</tr>
+<tr>
+<td> 3ml                             </td>
+<td> 6.7 </td>
+</tr>
+<tr>
+<td> 3ml                             </td>
+<td> 6.6 </td>
+</tr>
+<tr>
+<td> 6ml                             </td>
+<td> 6.4 </td>
+</tr>
+<tr>
+<td> 6ml                             </td>
+<td> 6.2 </td>
+</tr>
+<tr>
+<td> 6ml                             </td>
+<td> 6.0 </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Added 30 ml of phosphoric acid total.</p>
+
+<p>Heated up strike water to 171 and Doughed-in. Mash temperature was on target at
+154F.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21378600836/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/629/21378600836_f2aa626dff_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Added &frac12; tsp Calcium Choloride to mash.</p>
+
+<p>Mash pH was 5.4, 10 minutes into the mash.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21413224381/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/740/21413224381_68e5998f4a_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Sparged for 45 minutes to collect 8.5 gallons of wort in the kettle, while I enjoyed a <a href="blog/2015/08/03/brew-day-salty-dog-gose/">Salty Dog Gose</a>.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21378593076/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5630/21378593076_276f29d400_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Added &frac14; teaspon of Gypsum and &frac12; teaspoon of Calcium Chloride to kettle.</p>
+
+<p>Started the boil, and 5 minutes later it got the hot break. At this point
+started the 60 minute boil, adding ingredients per the recipe.</p>
+
+<p>Cooled through the plate chiller, and collected 6 gallons of wort in the
+fermenter.</p>
+
+<p>Aerated and pitched entire starter in fermenter. Total volume is about 6.5
+gallons, at an OG of 1.059.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Brew Day: Funk You Blonde Ale]]></title>
@@ -1046,256 +1290,6 @@ ferment at room temperature, about 68F.</p>
 
 <p>Kegged beer and left it at room temperature.
 FG was 1.006. ABV is 7.8%</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Brew day: Daddy's Belgian Blonde Ale]]></title>
-    <link href="http://www.flyinghopmachine.com/blog/2015/06/21/brew-day-daddys-belgian-blonde-ale/"/>
-    <updated>2015-06-21T11:47:05-07:00</updated>
-    <id>http://www.flyinghopmachine.com/blog/2015/06/21/brew-day-daddys-belgian-blonde-ale</id>
-    <content type="html"><![CDATA[<p>Today I&rsquo;m brewing something I haven&rsquo;t brewed before: A belgian blonde.</p>
-
-<p>My objectives with this beer are:</p>
-
-<!--more-->
-
-
-<ul>
-<li>Very crisp and clear appearance, should look a like a pilsener with good head.</li>
-<li>A bit of a malty and toasty aroma and flavor.</li>
-<li>Balanced hop bitterness and a bit of spicy hop aroma.</li>
-<li>High gravity and alcohol.</li>
-<li>Subtle and complex, easy drinking and delicious.</li>
-</ul>
-
-
-<p>The majority of the grist is belgian pilsener, but I&rsquo;m adding a bit of aromatic
-malt to give it that distinct maltness that plays well with the pilsener. It
-also has a bit of flaked wheat to aid with head retention and a bit of a creamy
-body. I&rsquo;m also adding 2 pounds of light beet sugar from
-<a href="http://candisyrup.com">candisyrup.com</a> to contribute some caramelly richness
-but also to aid attenuation and get even higher gravity.</p>
-
-<p>For this brew, I&rsquo;m keeping it very classic as it comes to hop schedule. This is
-not a hoppy beer, and the hops' contribution should be that of balance and a
-bit of spicyness.</p>
-
-<p>The glowing star for this beer is the yeast. I&rsquo;ve had a lot of success with
-WLP510 for big belgian brews, and I think it&rsquo;ll fit well with this beer for its
-dry, acidic finish and the mild spicy notes it produces.</p>
-
-<p>I plan on letting this one &ldquo;lager&rdquo; in a keg for at least a month before
-carbonating to aid with clarification and let the high alcohol fusel flavors
-mellow out.</p>
-
-<p>The recipe ended up as follows:</p>
-
-<table>
-<thead>
-<tr>
-<th> Batch Size </th>
-<th> Boil Time </th>
-<th> IBU   </th>
-<th> OG    </th>
-<th> FG    </th>
-<th> ABV </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> 6g         </td>
-<td> 90m       </td>
-<td> 20    </td>
-<td> 1.065 </td>
-<td> 1.009 </td>
-<td> 7.1 </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Water</em></p>
-
-<p>Start with RO water. Treat strike water with:</p>
-
-<table>
-<thead>
-<tr>
-<th> Name             </th>
-<th> Amount  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Calcium Chloride </td>
-<td> 1 tsp   </td>
-</tr>
-<tr>
-<td> Gypsum           </td>
-<td> &frac34; tsp </td>
-</tr>
-<tr>
-<td> Phosphoric Acid  </td>
-<td> 0.5ml   </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Fermentables</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Name                  </th>
-<th> Amount </th>
-<th> Percent     </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Belgian Pilsen Malt   </td>
-<td> 13lb   </td>
-<td> 92%         </td>
-</tr>
-<tr>
-<td> Aromatic Malt         </td>
-<td> 10oz   </td>
-<td> 4.4%        </td>
-</tr>
-<tr>
-<td> Flaked Wheat          </td>
-<td> 8oz    </td>
-<td> 3.5%        </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Hop schedule</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Variety   </th>
-<th> Time   </th>
-<th> Amount </th>
-<th> Form       </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Hallertau </td>
-<td> 60m    </td>
-<td> 1oz    </td>
-<td> Whole hops </td>
-</tr>
-<tr>
-<td> Saaz      </td>
-<td> 60m    </td>
-<td> 1oz    </td>
-<td> Whole hops </td>
-</tr>
-<tr>
-<td> Hallertau </td>
-<td> 2m     </td>
-<td> 1oz    </td>
-<td> Whole hops </td>
-</tr>
-<tr>
-<td> Saaz      </td>
-<td> 2m     </td>
-<td> 1oz    </td>
-<td> Whole hops </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Other</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Name                                             </th>
-<th> Amount   </th>
-<th> Use              </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Whirlfloc                                        </td>
-<td> 1 tablet </td>
-<td> 15m left in boil </td>
-</tr>
-<tr>
-<td> <a href="http://www.candisyrup.com/">Golden Candi Syrup</a> </td>
-<td> 2 lb     </td>
-<td> 10m left in boil </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Yeast</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Name                       </th>
-<th> Lab         </th>
-<th> Attenuation </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> WLP510 Bastogne Ale Yeast  </td>
-<td> White Labs  </td>
-<td> 74 - 80%    </td>
-</tr>
-</tbody>
-</table>
-
-
-<p>Mash at 151F for 90 minutes.
-Boil for 90 minutes to reduce chance of DMS.</p>
-
-<h2>Brew notes</h2>
-
-<h4>June 21</h4>
-
-<p>I Treated RO water per the recipe. This brought strike water pH down to 6.1.
-Along with the salt additions, the mash pH was on target, at 5.4.  Didn&rsquo;t have
-to treat mash pH at all, even for such a light-colored grist.  The approach of
-using phosphoric acid in strike water rather than adding acidulated malt is one
-that works well.</p>
-
-<p>I mashed at 151F.</p>
-
-<p>For sparge water, I added 0.5ml of phosphoric acid which brought it down to a
-pH of 5.7. This is about the right amount of phosphoric acid to add the sparge
-water without overshooting it!</p>
-
-<p><a href="https://instagram.com/p/4NVgr1H2cu/?taken-by=flyinghopmachine">I collected 8 gallons of 1.055 wort</a>.</p>
-
-<p>Fired up the kettle, it started boiling 12 minutes later, and got to the hot
-break 4 minutes after that. At this point I started the 90 minute boil.</p>
-
-<p>Added kettle additions per the recipe.</p>
-
-<p>Post-boil volume was 6.3 gallons. Chilled and transfered to fermenter where I
-aerated for roughly 40 minutes.</p>
-
-<p>Pitched two vials of WLP510 as I hadn&rsquo;t prepared a starter this time around.
-Stored fermenter at room temperature where it will sit for ~2 weeks.</p>
-
-<p>OG was 1.065</p>
-
-<h4>July 12</h4>
-
-<p>Kegged and took <a href="https://instagram.com/p/5DXyEgn2ck/">a gravity reading</a>. Ended
-at 1.011. Leaving at room temp until there&rsquo;s space in my keezer.</p>
 ]]></content>
   </entry>
   
