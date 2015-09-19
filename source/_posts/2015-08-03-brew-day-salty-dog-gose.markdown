@@ -40,7 +40,7 @@ recipe:
 
 | Batch Size |  IBU   | OG    | FG    | ABV |
 | ---------- |  ----- | ----- | ----- | --- |
-| 6g         |  0     | 1.048 | ?     | ?   |
+| 6g         |  0     | 1.047 | 1.011 | 4.7 |
 
 *Water*
 
@@ -116,7 +116,7 @@ got it down.
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20014356589/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/281/20014356589_b37e6beb75_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-SG reading was 1.048.
+SG reading was 1.047.
 
 Pitched entire lactobacillus starter into wort. After pitching, temperature was
 98F.
@@ -152,6 +152,16 @@ After boiling it, chilled as usual, aerated, and pitched WLP029 starter.
 
 SG reading was 1.023, so this lacto did attenuate the wort a bit.
 
+#### Aug 13, 2015
+
+Racked off of primary onto secondary. Wort was *very* clear. SG was 1.011.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/20966157805/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5728/20966157805_36c65600b9_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+#### Sept 2, 2015
+
+Kegged and carbed.
+
 ## What I'd do differently
 
 * For the lactobacillus starter, there are
@@ -166,6 +176,8 @@ SG reading was 1.023, so this lacto did attenuate the wort a bit.
   that. Next time, a 15 minute wort with the remaining ingredients might be
   enough.
 * I'll add "test pH meter" to my pre-brewing flight check.
+* Bring the worth pH down to 4.5 before pitching lacto helps with head
+  retention, so give that a shot as well.
 
 *This is all new to me: how else can I improve this process? Please let me know
 in the comments!*
