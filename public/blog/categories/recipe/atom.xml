@@ -4,7 +4,7 @@
   <title><![CDATA[Category: recipe | Flying Hop Machine]]></title>
   <link href="http://www.flyinghopmachine.com/blog/categories/recipe/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
-  <updated>2015-09-19T12:58:16-07:00</updated>
+  <updated>2015-09-19T17:02:04-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
   <author>
     <name><![CDATA[Harold Giménez]]></name>
@@ -12,6 +12,287 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Brew Day: Featured Creatures IPA]]></title>
+    <link href="http://www.flyinghopmachine.com/blog/2015/09/12/brew-day-featured-creatures-ipa/"/>
+    <updated>2015-09-12T16:19:55-07:00</updated>
+    <id>http://www.flyinghopmachine.com/blog/2015/09/12/brew-day-featured-creatures-ipa</id>
+    <content type="html"><![CDATA[<p>This time around I&rsquo;m looking to do a 100% Brettanomyces IPA. In fact, the first
+100% Brett beer I brew, so this should be interesting.</p>
+
+<!--more-->
+
+
+<p>First things first: What flavors can be expected from a 100% Brettanomyces
+fermentation? In reality, it&rsquo;s all sorts of flavors, except for neutral such
+as with the Chico strain of brewer&rsquo;s yeast.</p>
+
+<p>As with saccharomyces, brettanomyces is able to produce various esters and
+polyphenols. Different strains and species of brettanomyces are produce different
+kinds of flavors. Brettanomyces is just a yeast after all, not a bacteria as is
+often believed to be.</p>
+
+<p>One of the exciting aspects of fermenting with Brett is that it is in fact a
+wild yeast. As such it can take it&rsquo;s own course, and the brewer must be
+somewhat on top of the flavors that it develops, paciently waiting for the right
+time to drink. While I have no experience with brett fermentation yet, I expect the
+flavor of this beer to change over time, and that&rsquo;s plain thrilling.</p>
+
+<p>Brettanomyces can develop horsey, barnyard, fecal, sweaty, plastic flavors, as well as
+pineapple, pear, stone fruit, sour and vinegar flavors.</p>
+
+<p>While it is a wild yeast, I have chosen a known strain for this beer that should not be very heavy on the barnyard flavor and more forward with fruit. I hope this to be a very fruity IPA, with enough funk and dynamics to make it interesting. Whatever comes out, I&rsquo;m up for the journey.</p>
+
+<p>Because of the fruit aromas and flavors expected from the brett fermentation, I
+chose to use hops that would accentuate and play well with that profile.
+Amarillo is flowery and citrusy, and one of my favorite hops to use I may add.
+To that I&rsquo;ve added Galaxy for its passionfruit and again citrus character, and
+finally chinook to layer in some spice and pine character along with it&rsquo;s
+subtle grapefruit notes. My hope is I won&rsquo;t really be able to tell where the
+brett starts and the hops continue - they should play together to create some
+nice complexity unlike anything I&rsquo;ve only ever read about, such as Crooked
+Stave&rsquo;s 100% Brett Citra IPA. Finally, Brett beers' perceived bitterness is lower
+than that of saccharomyces, so not only did I first wort hopped this beer, but I also
+added a doze of high alpha acid Warrior at 60m.</p>
+
+<p>When making a 100% Brett beer, I consider production of wort as a primary driver for creating the right medium for brett to do it&rsquo;s thing. First of all, Brett chews up all sorts of sugars, unlike saccharomyces. Further, brett does not produce any glycerol, which contribute to saccharomyces beers' mouth feel. To top that off, brett can dry beers way out, so we want to help it out on the mouth feel front. For that reason, I mashed at a higher-than-usual temperature, and I added fermentables that aid in mouth feel such as carapils.</p>
+
+<p>Another important consideration for 100% Brett beers is that pitching rate is very high, and therefore it&rsquo;s required to build up a good starter. Brett is also slower in general than sacc, so building up the starter will require a bit more planning, and fermentation itself will take about twice as long. I plan on letting this ferment at least 4 weeks, if not more.</p>
+
+<p>The resulting recipe is as follows:</p>
+
+<p><em>Fermentables</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                  </th>
+<th> Amount </th>
+<th> Percent     </th>
+<th> Use          </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Rahr 2-row            </td>
+<td> 10 lb  </td>
+<td> 70.2%       </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> Vienna Malt           </td>
+<td> 2 lb   </td>
+<td> 14%         </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> CaraPils              </td>
+<td> 1 lb   </td>
+<td> 7%          </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> Wheat Malt            </td>
+<td> 1 lb   </td>
+<td> 7%          </td>
+<td> Mash         </td>
+</tr>
+<tr>
+<td> Acidulated Malt       </td>
+<td> 4 oz   </td>
+<td> 1.8%        </td>
+<td> Mash         </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Hop Schedule</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Variety  </th>
+<th> Time   </th>
+<th> Amount </th>
+<th> Form       </th>
+<th> Alpha Acids </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Amarillo </td>
+<td> FWH    </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+<td> 7.1%        </td>
+</tr>
+<tr>
+<td> Galaxy   </td>
+<td> FWH    </td>
+<td> 1oz    </td>
+<td> Pellets    </td>
+<td> 15.3%       </td>
+</tr>
+<tr>
+<td> Warrior  </td>
+<td> 60m    </td>
+<td> 1oz    </td>
+<td> Pellets    </td>
+<td> 17%         </td>
+</tr>
+<tr>
+<td> Chinook  </td>
+<td> 5m     </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+<td> 13.3%       </td>
+</tr>
+<tr>
+<td> Amarillo </td>
+<td> 5m     </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+<td> 7.1%        </td>
+</tr>
+<tr>
+<td> Chinook  </td>
+<td> 1m     </td>
+<td> 1oz    </td>
+<td> Whole Hops </td>
+<td> 13.3%       </td>
+</tr>
+<tr>
+<td> Amarillo </td>
+<td> 1m     </td>
+<td> 2oz    </td>
+<td> Whole Hops </td>
+<td> 7.1%        </td>
+</tr>
+<tr>
+<td> Galaxy   </td>
+<td> 1m     </td>
+<td> 2oz    </td>
+<td> Pellets    </td>
+<td> 15%         </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Other</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                                             </th>
+<th> Amount   </th>
+<th> Use              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Whirlfloc                                        </td>
+<td> 1 tablet </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> Yeast Nutrients                                  </td>
+<td> &frac14; tsp  </td>
+<td> 15m left in boil </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Yeast</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                                         </th>
+<th> Lab         </th>
+<th> Attenuation </th>
+<th> Quantity                   </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> WLP648 Brettanomyces Bruxellensis Trois Vrai </td>
+<td> White Labs  </td>
+<td> 85%+        </td>
+<td> 1.8l starter with one vial </td>
+</tr>
+</tbody>
+</table>
+
+
+<p>Mash at 156F for 60m.</p>
+
+<h2>Brew notes</h2>
+
+<h4>September 1, 2015</h4>
+
+<p>Created a starter with 300ml of 1.040 wort and one vial of WLP648. Kept starter
+agitated on a stir plate.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21409667711/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/691/21409667711_5358e5403c_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>This starter formed a pellicle, and lots of condensation in the flask in about 3 days.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21216909379/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5734/21216909379_ea34a9647a_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<h4>September 5, 2015</h4>
+
+<p>Created a larger 1.8l starter and pitched 300ml on it. During the transfer, I
+did not notice any acetic acid/vinager aroma which is great.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21404830695/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/745/21404830695_ded127b6b2_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Left starter on stir plate.</p>
+
+<h4>September 6, 2015</h4>
+
+<p>Moved starter off of stir plate and placed in fermentation chamber (ahem,
+closet). Left it there until brew day.</p>
+
+<h4>September 12, 2015.</h4>
+
+<p>A few hours before pitching, I moved the starter to the stir plate again. There
+wasn&rsquo;t a large pellicle to speak of, but there was plenty of activity and
+CO<sub>2</sub> production.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/20783871243/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/696/20783871243_bc542b5a1d_z.jpg" width="640" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>I started this brew with RO water. Initial water pH was 5.7, which required no
+further acidification nor other salt treatments as this water has very low
+alkalinity.</p>
+
+<p>I heated strike water to 174F, and doughed-in, resulting in a mash temperature
+of 156F.</p>
+
+<p>Mash pH was 5.4.</p>
+
+<p>Sparged for about 55 minutes and collected 7.5 gallons of wort.</p>
+
+<p>Added 1 tsp of gypsum and &frac14; tsp of Calcium Chloride to kettle for flavor.</p>
+
+<p>Added boil additions per recipe.</p>
+
+<p>Cold-crashed with a plate chiller, and moved wort to fermenter.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21398038425/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5717/21398038425_ac93427998_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>Aerated and pitched entire starter. OG was 1.060.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21378715586/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/633/21378715586_a19ed477ab_z.jpg" width="513" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<h4>September 14, 2015</h4>
+
+<p>First signs of activity in fermentation. Creamypellicle starting to form.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Brew Day: Smoker in the Rye Porter]]></title>
@@ -1010,286 +1291,6 @@ chloride to sulfate ratio.</p>
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/19819962424/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/405/19819962424_4e9292feb4_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
 
 <p>Gravity reading was 1.019.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Brew day: Independence Saison]]></title>
-    <link href="http://www.flyinghopmachine.com/blog/2015/07/03/brew-day-independence-saison/"/>
-    <updated>2015-07-03T20:36:43-07:00</updated>
-    <id>http://www.flyinghopmachine.com/blog/2015/07/03/brew-day-independence-saison</id>
-    <content type="html"><![CDATA[<p>Today I brewed a variation on a recipe that I&rsquo;ve worked on for some time. This
-beer is being brewed for a special professional event. I&rsquo;ll be given the chance
-to talk about the brewing process, and given the audience is engineers and
-bio-medical scientists I might dive into water chemistry and focus on that.</p>
-
-<!--more-->
-
-
-<p>I was asked to bring what I consider to be &ldquo;my best brew.&rdquo; This is of course a
-terrible question to ask a brewer, just like a dad doesn&rsquo;t have a favorite
-child. Right, right? So instead I thought about who the audience is, what the
-environment is like, and what I thought they&rsquo;d like the most. There will be
-other homebrewers and there will be a prize for best beer, so let&rsquo;s aim for
-that! In this case, I think I&rsquo;ll be pouring beer to engineers who are open to
-some experimentation but aren&rsquo;t really familiar with the breadth of flavors that
-exist in beer, so I wanted to step a bit outside their comfort area while still
-bringing something approachable and very drinkable for many palettes. I had to
-stay away from harsh or aggressive flavors, but want it to be exotic enough to
-leave an impression. Things like barley wine, double/tripple IPAs, Imperial
-stouts, might be a bit too aggressive for this purpose. On the other hand Pale
-Ales, Pilseners, or Kölsh might be too safe. I decided to go with a saison that
-has enough of an edge to be interesting, but might be familiar in other ways
-such as color and hop profile. We&rsquo;ll see how this goes!</p>
-
-<p>This is a beer I&rsquo;ve brewed a lot before and I&rsquo;ve gone through a great deal of
-experimentation before arriving at a flavor profile I really loved. I&rsquo;ve gone
-through various yeast strains and hop varieties. I particularly love the
-introduction of american citrusy hops with the french saison strain, so we&rsquo;ll
-be using lots of that.</p>
-
-<p>To play homage to the all-but-the-kitchen-sink tradition of farmhouse ales, I
-added just a bit of flaked rye to this recipe. I&rsquo;ve always had some flaked
-wheat in there too, yielding an awesome, white long lasting head.</p>
-
-<p>It is still a very light grist, and based on the success of using acidulated
-malt in <a href="/blog/2015/06/20/brew-day-drink-with-the-flies-ipa-v2/">a recent
-brew</a>, I decided to add
-some of that here as well.  Unfortunately that didn&rsquo;t turn out very well (read
-more below!), so I will be reducing or removing that completely next time I
-brew this beer.</p>
-
-<p>The recipe is:</p>
-
-<table>
-<thead>
-<tr>
-<th> Batch Size </th>
-<th> Boil Time </th>
-<th> IBU   </th>
-<th> OG    </th>
-<th> FG    </th>
-<th> ABV </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> 6g         </td>
-<td> 60m       </td>
-<td> 72    </td>
-<td> 1.065 </td>
-<td> 1.006 </td>
-<td> 7.8 </td>
-</tr>
-</tbody>
-</table>
-
-
-<p>Note that IBU is estimated, as First Worth Hopping IBU contribution is unknown.</p>
-
-<p><em>Water:</em></p>
-
-<p>Start with RO water. Treat strike water with:</p>
-
-<table>
-<thead>
-<tr>
-<th> Name             </th>
-<th> Amount  </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Gypsum           </td>
-<td> &frac34; tsp </td>
-</tr>
-<tr>
-<td> Calcium Chloride </td>
-<td> 1 tsp   </td>
-</tr>
-<tr>
-<td> Phosphoric Acid  </td>
-<td> 0.5ml   </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Fermentables</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Name                  </th>
-<th> Amount                     </th>
-<th> Percent     </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Belgian Pilsen        </td>
-<td> 12.5 lb                    </td>
-<td> 90.1%       </td>
-</tr>
-<tr>
-<td> Flaked Wheat          </td>
-<td> 8 oz                       </td>
-<td> 3.6%        </td>
-</tr>
-<tr>
-<td> Flaked Rye            </td>
-<td> 8 oz                       </td>
-<td> 3.6%        </td>
-</tr>
-<tr>
-<td> Acidulated Malt       </td>
-<td> 6 oz (use less! See below) </td>
-<td> 2.7%        </td>
-</tr>
-</tbody>
-</table>
-
-
-<p>Mash at 151F for 90 minutes.</p>
-
-<p><em>Hop schedule</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Variety     </th>
-<th> Time          </th>
-<th> Amount </th>
-<th> Form       </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Sorachi Ace </td>
-<td> FWH           </td>
-<td> 1oz    </td>
-<td> Palletes   </td>
-</tr>
-<tr>
-<td> Mt. Hood    </td>
-<td> 60m           </td>
-<td> 1oz    </td>
-<td> Whole Hops </td>
-</tr>
-<tr>
-<td> Mt. Hood    </td>
-<td> 15m           </td>
-<td> 1oz    </td>
-<td> Whole Hops </td>
-</tr>
-<tr>
-<td> Citra       </td>
-<td> 5m            </td>
-<td> 1oz    </td>
-<td> Whole Hops </td>
-</tr>
-<tr>
-<td> Saaz        </td>
-<td> 5m            </td>
-<td> 1oz    </td>
-<td> Whole Hops </td>
-</tr>
-<tr>
-<td> Citra       </td>
-<td> Steep for 15m </td>
-<td> 1oz    </td>
-<td> Whole Hops </td>
-</tr>
-<tr>
-<td> Saaz        </td>
-<td> Steep for 15m </td>
-<td> 1oz    </td>
-<td> Whole Hops </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Other:</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Name                                             </th>
-<th> Amount   </th>
-<th> Use              </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> Whirlfloc                                        </td>
-<td> 1 tablet </td>
-<td> 15m left in boil </td>
-</tr>
-<tr>
-<td> <a href="http://www.candisyrup.com/">Golden Candi Syrup</a> </td>
-<td> 1 lb     </td>
-<td> 10m left in boil </td>
-</tr>
-</tbody>
-</table>
-
-
-<p><em>Yeast:</em></p>
-
-<table>
-<thead>
-<tr>
-<th> Name                         </th>
-<th> Lab     </th>
-<th> Attenuation </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td> WY3711 French Saison         </td>
-<td> WYeast  </td>
-<td> 77 - 83%    </td>
-</tr>
-</tbody>
-</table>
-
-
-<h2>Brew notes</h2>
-
-<h4>July 3, 2015</h4>
-
-<p>I treaded RO water per the recipe, lowering strike water pH to 6.1. Strike
-water was at 162F, and the mash ended up at 146F. I quickly heated up some
-water and added it in to raise the temperature to 151F.</p>
-
-<p>Initial reading of the mash pH was 4.9. The acidulated malt present in the
-mash, along with the phosphoric acid used, the very little buffering capacity in
-my RO water, and the calcium added with the salt treatments, lowered the pH way
-too much. <strong>Next time reduce or remove acidulated malt from grist!</strong> To solve
-this, I added NaHCO<sub>3</sub> (Baking soda) in half teaspoon increments
-until the mash adjusted up to 5.2. I added a total of one teaspoon and the pH
-was spot on. Crisis adverted!</p>
-
-<p>I mashed for 90 minutes, and fly-sparged for 40 minutes. I collected 8 gallons
-of wort as I expect a lot of loss to the whole hops and the long boiling time.
-Fired up the kettle and 17 minutes later I got the hot break. At this
-point I started the 90 minute boil.</p>
-
-<p>Had a nice rolling boil for 90 minutes, adding hops and other additions per the
-recipe. Ended up with 6.5 gallons in the kettle.</p>
-
-<p>Chilled and collected 5.5 gallons of wort in the fermenter, spot on.</p>
-
-<p>Pitched the yeast starter that I had prepared the previous day, and set it to
-ferment at room temperature, about 68F.</p>
-
-<p>Measured OG was 1.065</p>
-
-<h4>July 26, 2015</h4>
-
-<p>Kegged beer and left it at room temperature.
-FG was 1.006. ABV is 7.8%</p>
 ]]></content>
   </entry>
   
