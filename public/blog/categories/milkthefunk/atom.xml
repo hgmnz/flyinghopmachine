@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: brettanomyces | Flying Hop Machine]]></title>
-  <link href="http://www.flyinghopmachine.com/blog/categories/brettanomyces/atom.xml" rel="self"/>
+  <title><![CDATA[Category: milkthefunk | Flying Hop Machine]]></title>
+  <link href="http://www.flyinghopmachine.com/blog/categories/milkthefunk/atom.xml" rel="self"/>
   <link href="http://www.flyinghopmachine.com/"/>
   <updated>2015-09-19T17:12:45-07:00</updated>
   <id>http://www.flyinghopmachine.com/</id>
@@ -531,6 +531,288 @@ Given it&rsquo;s low pH there was no need for adjustment.</p>
 <p>Pitched dregs of Alamanac Brewing&rsquo;s Farmer&rsquo;s Reserve Citrus</p>
 
 <p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21372484846/in/datetaken/" title="Untitled"><img src="https://farm1.staticflickr.com/575/21372484846_19a9dd0339_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Brew Day: Salty Dog Gose]]></title>
+    <link href="http://www.flyinghopmachine.com/blog/2015/08/03/brew-day-salty-dog-gose/"/>
+    <updated>2015-08-03T20:57:53-07:00</updated>
+    <id>http://www.flyinghopmachine.com/blog/2015/08/03/brew-day-salty-dog-gose</id>
+    <content type="html"><![CDATA[<p>I have been itching to bring in some critters into my brewery that weren&rsquo;t
+saccharomyces for a little while. I&rsquo;ve been making a bit of research and
+finally decided to jump right in. I think a Gose (or a Berliner Weisse for that
+matter) are a great way to start this journey, because it does not require long
+aging periods, and with hot side souring, it can reduce the chance of infecting
+brewery equipment with bacteria.</p>
+
+<!--more-->
+
+
+<p>For this beer, I did what&rsquo;s called Kettle Souring or Sour Wort (?). The process
+is fairly straightforward. It involves mashing as you usually would, chilling
+wort to a range appropriate for your lactobacillus cultures, pitching
+lactobacillus, and holding the temperature for a few days. Then, you may or may
+not boil this wort, chill again as usual and pitch saccharomyces.</p>
+
+<p>Lactobacillus eats up sugars and produce lactic acid which in turn lowers the
+solution&rsquo;s pH. When souring wort, having a pH meter is important as it will
+tell you when to stop. If it drops too low, then saccharomyces will be
+inhibited, and if it&rsquo;s too high, then it won&rsquo;t be sour. Tasting the wort as you
+measure pH is good advice as well - you&rsquo;ll know how it&rsquo;s progressing and when
+it&rsquo;s just too much, although when it&rsquo;s carbonated it will be perceived as less
+sour.</p>
+
+<p>A characteristic of Goses is that they do not have any IBUs. I didn&rsquo;t add any
+hops at all, except for a few in the mash just for fun. But it&rsquo;s notable that
+in general hops will inhibit lactobacillus activity, again, depending on
+species, so generally these beers have very little hops if at all.</p>
+
+<p>For this time around, I am trying to go as simple as possible to get a feel for
+the process. I did some research on the style, and ended up with the following
+recipe:</p>
+
+<table>
+<thead>
+<tr>
+<th> Batch Size </th>
+<th>  IBU   </th>
+<th> OG    </th>
+<th> FG    </th>
+<th> ABV </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> 6g         </td>
+<td>  0     </td>
+<td> 1.047 </td>
+<td> 1.011 </td>
+<td> 4.7 </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Water</em></p>
+
+<p>Water chemistry was not something I found a lot of good information about.
+Because this is a very light-colored beer, I started off with RO water. But I
+didn&rsquo;t think it&rsquo;d be wise to go with completely soft water either, and it&rsquo;s not
+a hoppy beer so I don&rsquo;t need a high sulfate to chloride ratio.  I just added a
+quarter tsp of both Calcium Chloride and Gypsum in my strike water.  Along with
+a little bit of acidulated malt that I included in the grist, this should bring
+my mash pH to appropriate conversion levels.</p>
+
+<p>Unfortunately, my pH meter broke down on brew day, so I was unable to measure
+mash pH, nor wort starting pH prior to pitching lactobacillus. I&rsquo;ll just have
+to measure these on my next Gose.</p>
+
+<p><em>Fermentables</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                    </th>
+<th> Amount    </th>
+<th> Percent     </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Weyermann Wheat Malt    </td>
+<td> 5 lb      </td>
+<td> 47.6 %      </td>
+</tr>
+<tr>
+<td> Weyermann Pilsener Malt </td>
+<td> 4 lb 8 oz </td>
+<td> 42.9 %      </td>
+</tr>
+<tr>
+<td> Melanoidin Malt         </td>
+<td> 4 oz      </td>
+<td> 2.4 %       </td>
+</tr>
+<tr>
+<td> Acidulated Malt         </td>
+<td> 4 oz      </td>
+<td> 2.4 %       </td>
+</tr>
+<tr>
+<td> Rice Hulls              </td>
+<td> 8 oz      </td>
+<td> 4.8 %       </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><em>Hop Schedule</em></p>
+
+<p>Three fresh chinook hops from your garden in the mash (optional) :)</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20163262111/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/492/20163262111_daba90c00b_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p><em>Other</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                                             </th>
+<th> Amount       </th>
+<th> Use              </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> Whirlfloc                                        </td>
+<td> 1 tablet     </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> Yeast Nutrient                                   </td>
+<td> &frac14; teaspoon </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> Crushed Coriander                                </td>
+<td> 1 oz         </td>
+<td> 15m left in boil </td>
+</tr>
+<tr>
+<td> Maldon Sea Salt Flakes                           </td>
+<td> 14 grams     </td>
+<td> 15m left in boil </td>
+</tr>
+</tbody>
+</table>
+
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20200975175/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/451/20200975175_9d6b52857e_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p><em>Yeast</em></p>
+
+<table>
+<thead>
+<tr>
+<th> Name                     </th>
+<th> Lab         </th>
+<th> Attenuation </th>
+<th> Amount                      </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td> GB110 Fast Souring Lacto </td>
+<td> GigaYeast   </td>
+<td> 15%         </td>
+<td> 1 bag in 2 liter starter    </td>
+</tr>
+<tr>
+<td> WLP029 German Ale/Kölsch </td>
+<td> White Labs  </td>
+<td> 78%         </td>
+<td> 1 vial in 1.8 liter starter </td>
+</tr>
+</tbody>
+</table>
+
+
+<h2>Brew notes</h2>
+
+<h4>July 26, 2015</h4>
+
+<p>Built a starter inoculate with the lactobacillus package. I made it 2 full
+liters. Chilled it to 95F. After pitching the package, the Erlenmeyer flask
+filled pretty much to the top, which was the goal as to avoid any oxygen
+between the wort and the bung. Placed an airlock and sealed it by wrapping
+around with cling wrap.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/19969590068/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/383/19969590068_2a0f76a697_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<h4>July 30, 2015</h4>
+
+<p>Mashed in at 148F. Added calcium chloride and gypsum additions. Sparged and
+boiled for 15 minutes to help volatalize DMS from the pilsener malt.</p>
+
+<p>During the boil, I quickly cleaned up my plastic cooler/mash tun to be used
+during wort souring to aid in maintaining an appropriate temperature.</p>
+
+<p>Chilled wort using plate chiller straight into cooler, targeting 99-100F. It
+wasn&rsquo;t easy to get this temperature, but by controlling the flow of water it
+got it down.</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20014356589/in/album-72157655784368350/" title="Untitled"><img src="https://farm1.staticflickr.com/281/20014356589_b37e6beb75_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>SG reading was 1.047.</p>
+
+<p>Pitched entire lactobacillus starter into wort. After pitching, temperature was
+98F.</p>
+
+<p>Purged oxygen with CO2, closed down the cooler, and placed in warmest place
+possible. Ideally you&rsquo;d control temperature and maintain it at 98F, which I
+don&rsquo;t have equipment to do yet.</p>
+
+<h4>July 30, 2015</h4>
+
+<p>20 hours later, pH dropped to 3.5 and temperature dropped to 87F. I know it&rsquo;s
+called &ldquo;Fast Souring Lacto&rdquo; but this seems <em>very</em> fast! Probably also due to
+the fact that RO water was used, and I didn&rsquo;t add any bicarbonates, so
+alkalinity on this water is definitely low.</p>
+
+<p>Built a started with one vial of WLP029 and yeast nutrients.</p>
+
+<h4>Aug 1, 2015</h4>
+
+<p>pH dropped to 3.3 and temperature to 80F. It&rsquo;s definitely time to stop
+lactobacillus activity, which I did by boiling the wort.</p>
+
+<p>Wort tasted nice and sour, but very clean. Getting pumped!</p>
+
+<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/hgmnz/20183503406/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5617/20183503406_8bfd689c58_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<p>I crushed the coriander seeds by placing them in a bag and using a kitchen
+roller.</p>
+
+<p>During the boil I added a Whirfloc tablet, yeast nutrients, coriander and salt</p>
+
+<p>After boiling it, chilled as usual, aerated, and pitched WLP029 starter.</p>
+
+<p>SG reading was 1.023, so this lacto did attenuate the wort a bit.</p>
+
+<h4>Aug 13, 2015</h4>
+
+<p>Racked off of primary onto secondary. Wort was <em>very</em> clear. SG was 1.011.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/20966157805/in/album-72157655784368350/" title="Untitled"><img src="https://farm6.staticflickr.com/5728/20966157805_36c65600b9_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<h4>Sept 2, 2015</h4>
+
+<p>Kegged and carbed.</p>
+
+<h2>What I&rsquo;d do differently</h2>
+
+<ul>
+<li>For the lactobacillus starter, there are
+<a href="http://www.milkthefunk.com/wiki/Lactobacillus#Starters_and_Pitching_Rate">experiments</a>
+which show using a bit of apple juice yield a more appropriate environment for
+lacto. Further, I&rsquo;ll add some yeast nutrients which I didn&rsquo;t do this time.</li>
+<li>I&rsquo;d do more research on appropriate water profile, although it seems to me
+chloride and sulfate won&rsquo;t play a big role in a sour beer like this. I might
+consider simply using acidulated malt and phophoric acid to tune in on an
+appropriate mash pH.</li>
+<li>I boiled for a full 60 minutes, but I don&rsquo;t see any reason to having done
+that. Next time, a 15 minute wort with the remaining ingredients might be
+enough.</li>
+<li>I&rsquo;ll add &ldquo;test pH meter&rdquo; to my pre-brewing flight check.</li>
+<li>Bring the worth pH down to 4.5 before pitching lacto helps with head
+retention, so give that a shot as well.</li>
+</ul>
+
+
+<p><em>This is all new to me: how else can I improve this process? Please let me know
+in the comments!</em></p>
 ]]></content>
   </entry>
   
