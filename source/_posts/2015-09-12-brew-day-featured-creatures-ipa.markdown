@@ -15,7 +15,7 @@ First things first: What flavors can be expected from a 100% Brettanomyces
 fermentation? In reality, it's all sorts of flavors, except for neutral such
 as with the Chico strain of brewer's yeast.
 
-As with saccharomyces, brettanomyces is able to produce various esters and
+As with saccharomyces, brettanomyces is able to produce various esthers and
 polyphenols. Different strains and species of brettanomyces are produce different
 kinds of flavors. Brettanomyces is just a yeast after all, not a bacteria as is
 often believed to be.
