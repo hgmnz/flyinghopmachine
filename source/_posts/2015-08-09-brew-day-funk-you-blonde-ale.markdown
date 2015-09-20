@@ -3,7 +3,7 @@ layout: post
 title: "Brew Day: Funk You Blonde Ale"
 date: 2015-08-09 16:23:30 -0700
 comments: true
-categories: [brewday, recipe, sour, lactobacillus, pediococcus, brettanomyces]
+categories: [brewday, recipe, sour, lactobacillus, pediococcus, brettanomyces, milkthefunk]
 ---
 
 I'm diving in with mixed fermentation. For this beer I want to go for

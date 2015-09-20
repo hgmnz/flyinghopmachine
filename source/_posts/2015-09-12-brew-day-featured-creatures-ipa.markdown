@@ -3,7 +3,7 @@ layout: post
 title: "Brew Day: Featured Creatures IPA"
 date: 2015-09-12 16:19:55 -0700
 comments: true
-categories: [brewday, recipe, brettanomyces, ipa]
+categories: [brewday, recipe, brettanomyces, ipa, milkthefunk]
 ---
 
 This time around I'm looking to do a 100% Brettanomyces IPA. In fact, the first

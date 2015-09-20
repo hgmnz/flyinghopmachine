@@ -3,7 +3,7 @@ layout: post
 title: "Brew Day: Salty Dog Gose"
 date: 2015-08-03 20:57:53 -0700
 comments: true
-categories: [brewday, recipe, sour, lactobacillus]
+categories: [brewday, recipe, sour, lactobacillus, milkthefunk]
 ---
 
 I have been itching to bring in some critters into my brewery that weren't
