@@ -148,4 +148,4 @@ Aerated and pitched entire starter. OG was 1.060.
 
 #### September 14, 2015
 
-First signs of activity in fermentation. Creamypellicle starting to form.
+First signs of activity in fermentation. Creamy pellicle starting to form.
