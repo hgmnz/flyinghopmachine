@@ -37,7 +37,7 @@ Amarillo is flowery and citrusy, and one of my favorite hops to use I may add.
 To that I've added Galaxy for its passionfruit and again citrus character, and
 finally chinook to layer in some spice and pine character along with it's
 subtle grapefruit notes. My hope is I won't really be able to tell where the
-brett starts and the hops continue - they should play together to create some
+brett starts and the hops end - they should play together to create some
 nice complexity unlike anything I've only ever read about, such as Crooked
 Stave's 100% Brett Citra IPA. Finally, Brett beers' perceived bitterness is lower
 than that of saccharomyces, so not only did I first wort hopped this beer, but I also
@@ -149,3 +149,5 @@ Aerated and pitched entire starter. OG was 1.060.
 #### September 14, 2015
 
 First signs of activity in fermentation. Creamy pellicle starting to form.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/20931173954/in/datetaken/" title="Untitled"><img src="https://farm6.staticflickr.com/5702/20931173954_670b1419ab_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

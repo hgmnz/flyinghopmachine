@@ -133,13 +133,13 @@ OG was 1.075
 
 Racked to secondary. Gravity reading was 1.012.
 
-#### November 12, 2015
+#### September 12, 2015
 
 Pitched dregs of The Bruery Tart of Darkness
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/21398048025/in/dateposted-public/" title="Untitled"><img src="https://farm6.staticflickr.com/5669/21398048025_8affc4c792_z.jpg" width="480" height="640" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-#### November 13, 2015
+#### September 13, 2015
 
 Pitched dregs of Alamanac Brewing's Farmer's Reserve Citrus
 
