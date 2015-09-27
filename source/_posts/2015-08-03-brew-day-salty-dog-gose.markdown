@@ -178,6 +178,3 @@ Kegged and carbed.
 * I'll add "test pH meter" to my pre-brewing flight check.
 * Bring the worth pH down to 4.5 before pitching lacto helps with head
   retention, so give that a shot as well.
-
-*This is all new to me: how else can I improve this process? Please let me know
-in the comments!*
