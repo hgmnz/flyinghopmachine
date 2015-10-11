@@ -151,3 +151,11 @@ Aerated and pitched entire starter. OG was 1.060.
 First signs of activity in fermentation. Creamy pellicle starting to form.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/hgmnz/20931173954/in/datetaken/" title="Untitled"><img src="https://farm6.staticflickr.com/5702/20931173954_670b1419ab_z.jpg" width="640" height="480" alt="Untitled"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+#### October 10, 2015
+
+Took a sample for gravity reading and taste. Gravity is at 1.008.
+
+Both taste and aroma are very fruity. Somewhat dissapointed in lack of
+bitterness, although it was definitely a delicious beer. Let's see how it
+continues to evolve as it dries out even more.
